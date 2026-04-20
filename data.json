@@ -1,55 +1,16 @@
 [
     {
-        "event_id": "14717",
+        "event_id": "14724",
         "category": "Training Course",
-        "title": "Keep it real! 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/keep-it-real-2026.14717/",
-        "summary": "\"Keep it REAL! 2026\" will offer participants the opportunity to explore what it takes to write a solid Youth Exchange application. This course is primarily aimed at those with little or no experience in applying for international youth mobility grants.",
-        "participants_from": "Armenia, Georgia, Moldova, Ukraine, Erasmus+ Youth Programme countries",
-        "date": "23-28 August 2026",
-        "location": "Birštonas, Lithuania",
-        "deadline": "14 May 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-keep-it-rea?source_entity_type=group&source_entity_id=882#no-back"
-    },
-    {
-        "event_id": "14589",
-        "category": "Conference – Symposium - Forum",
-        "title": "SoliDARE - Meeting for organisations active in ESC in programme & partner countries",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidare-meeting-for-organisations-active-in-esc-in-programme-partner-countries.14589/",
-        "summary": "SoliDARE community event in Tallinn brings together European Solidarity Corps organisations and practitioners to reconnect, exchange experiences, strengthen the ESC community, and help shape the future of EU volunteering.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Tallinn, Estonia",
-        "deadline": "17 May 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidare-meeting-for-organisatio?source_entity_type=group&source_entity_id=832#no-back"
-    },
-    {
-        "event_id": "14545",
-        "category": "Seminar",
-        "title": "Generation Lab - practice lab on intergenerational solidarity and dialogue",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/generation-lab-practice-lab-on-intergenerational-solidarity-and-dialogue.14545/",
-        "summary": "A 3-day practice lab on intergenerational solidarity  will allow (youth) professionals to reflect on, exchange, and analyse existing practices, in order to develop approaches better suited to current and future societal needs.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "26-30 October 2026",
-        "location": "Malta, Malta",
-        "deadline": "17 May 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/generation-lab-practice-lab-on-i?source_entity_type=group&source_entity_id=801#no-back"
-    },
-    {
-        "event_id": "14670",
-        "category": "E-learning",
-        "title": "Online Youthpass Meeting for beneficiaries",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/online-youthpass-meeting-for-beneficiaries.14670/",
-        "summary": "Online meeting for programme beneficiaries to introduce and discuss Youthpass, as a tool to strenghten the learning and recognition in the EU youth programmes",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "19 May 2026",
-        "location": "online, Germany",
-        "deadline": "18 May 2026",
-        "infopack": null,
-        "application_form": "https://us02web.zoom.us/meeting/register/M8pjDDanSyKGCRMq7bi7wA"
+        "title": "TOGETHER",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/together.14724/",
+        "summary": "The ‘TOGETHER’ training course has been designed to share tools and methods for fostering cooperation and community living, and to help participants identify barriers to communication.",
+        "participants_from": "France, Greece, Spain",
+        "date": "2-9 June 2026",
+        "location": "Laguépie, France",
+        "deadline": "20 May 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10798/Infopack%20TOGETHER%20juin%202026%20EN.pdf",
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16074/application/"
     },
     {
         "event_id": "14615",
@@ -76,6 +37,32 @@
         "deadline": "21 May 2026",
         "infopack": null,
         "application_form": "https://forms.gle/3EahpPqfsWMUq83k9"
+    },
+    {
+        "event_id": "14725",
+        "category": "Training Course",
+        "title": "NowGen Volunteers NL 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/nowgen-volunteers-nl-2026.14725/",
+        "summary": "This activity brings former international volunteers together to reflect on their experience, shape future (policy) developments in European Volunteering and inspire them to continue making a positive change to society.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "5-9 October 2026",
+        "location": "The Hague, Netherlands",
+        "deadline": "24 May 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/nowgen-volunteers-nl-2026-partic?source_entity_type=group&source_entity_id=890#no-back"
+    },
+    {
+        "event_id": "14721",
+        "category": "Training Course",
+        "title": "Rural.exe",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/rural-exe.14721/",
+        "summary": "Erasmus+ training on AI tools, digital innovation, and rural development. Participants will explore practical solutions for community impact, co-create activities, and strengthen skills to support youth engagement in rural areas.",
+        "participants_from": "Bulgaria, Italy, Luxembourg, Poland, Slovak Republic, Ukraine",
+        "date": "10-17 August 2026",
+        "location": "Herľany, Slovak Republic",
+        "deadline": "25 May 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScTWjMaX_7v-MJqzis1Y3c-DskqvC-eatG1aKt7_Hk50XXCmA/viewform"
     },
     {
         "event_id": "14610",
@@ -115,6 +102,32 @@
         "deadline": "31 May 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10699/InfoPack%20-%20Inclusive%20cities%20lens.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10700/InfoPack%20-%20Inclusive%20cities%20lens.pdf",
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfclzKUd59fK-SaUJR1buEAKAeTOHOxxoKRg-M7S4D7VfbL7g/viewform"
+    },
+    {
+        "event_id": "14735",
+        "category": "Training Course",
+        "title": "PERMACULTURE MOVEMENT",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/permaculture-movement.14735/",
+        "summary": "Permaculture Movement aims to bring together people, communities and organizations which share dreams, knowledge and methodologies focused on sustainable, resilient futures, including art as a tool for change.",
+        "participants_from": "Austria, Estonia, France, Greece, Poland, Slovak Republic, Spain, Ukraine",
+        "date": "30 July -  6 August 2026",
+        "location": "Prenčov - Banská Štiavnica, Slovak Republic",
+        "deadline": "31 May 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10801/info%20kit%20_PK%20movement_2026xD.pdf",
+        "application_form": "https://forms.gle/Tq6xXUxdSTjpJRhf9"
+    },
+    {
+        "event_id": "14709",
+        "category": "Seminar",
+        "title": "Erasmu4Democracy ProjectLab",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/erasmu4democracy-projectlab.14709/",
+        "summary": "Are you working to improve municipal youth participation and local democracy? Do you want to find other municipal partners to design Erasmus+ projects for developing youth participation in municipal decisions?",
+        "participants_from": "Armenia, Morocco, Tunisia, Ukraine, Erasmus+ Youth Programme countries",
+        "date": "31 August -  5 September 2026",
+        "location": "tbc, Bulgaria",
+        "deadline": "15 June 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-erasmus42026?source_entity_type=group&source_entity_id=879#no-back"
     },
     {
         "event_id": "14631",
