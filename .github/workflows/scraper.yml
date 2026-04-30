@@ -5,6 +5,12 @@ on:
     - cron: '0 6 * * *'  # Ogni giorno alle 6:00 UTC
   workflow_dispatch:
 
+# 🔒 evita esecuzioni parallele (IMPORTANTISSIMO)
+concurrency:
+  group: scrape-main
+  cancel-in-progress: false
+
+# 🔧 forza compatibilità futura Node.js
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -29,13 +35,14 @@ jobs:
       - name: Run scraper
         run: python salto2026.py
 
-          - name: Commit and push data.json
+      - name: Commit and push data.json
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
           git add data.json
 
+          # se non ci sono modifiche esci
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
@@ -43,7 +50,7 @@ jobs:
 
           git commit -m "Update data.json"
 
-          # 🔑 soluzione definitiva al reject
-          git pull --rebase origin main || true
+          # 🔑 sincronizza con remoto per evitare reject
+          git pull --rebase origin main
 
           git push origin main
