@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "14610",
-        "category": "Training Course",
-        "title": "OPEN INTERNATIONAL CALL Green Europe Bologna ITALY",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/open-international-call-green-europe-bologna-italy.14610/",
-        "summary": "Open call only for participants Netherlands and Italy. Project will be held 14-22 JUNE 2026 in Bologna, ITALY",
-        "participants_from": "Italy, Netherlands",
-        "date": "14-22 June 2026",
-        "location": "Bologna, Italy",
-        "deadline": "28 May 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/XQVAyCXvUqftQ7ce6"
-    },
-    {
-        "event_id": "14583",
-        "category": "Training Course",
-        "title": "International Call - Training Course \"Music as a tool for youth growth\" in ITALY",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-call-training-course-music-as-a-tool-for-youth-growth-in-italy.14583/",
-        "summary": "Training Course\r\n\" Music as a tool for youth growth \" in Italy\r\n\r\n14-22 June 2026\r\n\r\nInternational call is open for participants from The Netherlands and Italy only",
-        "participants_from": "Italy, Netherlands",
-        "date": "14-22 June 2026",
-        "location": "Viterbo, Italy",
-        "deadline": "28 May 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/9cwBE2WT4C2D18kY6"
-    },
-    {
         "event_id": "14541",
         "category": "Training Course",
         "title": "Inclusive cities lenses : Introducing video intro youth work",
@@ -50,6 +24,45 @@
         "deadline": "31 May 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10801/info%20kit%20_PK%20movement_2026xD.pdf",
         "application_form": "https://forms.gle/Tq6xXUxdSTjpJRhf9"
+    },
+    {
+        "event_id": "14800",
+        "category": "Seminar",
+        "title": "Trash to treasure: introducing circular economy and green jobs in youth work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/trash-to-treasure-introducing-circular-economy-and-green-jobs-in-youth-work.14800/",
+        "summary": "The Trash to Treasure consortium would like to offer you the opportunity to interact and exchange with organisations and companies whose mission is to promote the circular economy and encourage green jobs and green careers among young people",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "3 June 2026",
+        "location": "online, France",
+        "deadline": "1 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10840/Trash%20to%20Treasure_project%20overview.pdf",
+        "application_form": "https://forms.gle/PSh21DVF8a55MhKK6"
+    },
+    {
+        "event_id": "14795",
+        "category": "Training Course",
+        "title": "\"INGAME\" – Training Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ingame-training-course.14795/",
+        "summary": "INGAME is an international training course on gamification in non-formal education, bringing together youth workers to develop facilitation skills, create educational games, and promote interactive learning.",
+        "participants_from": "Estonia, Finland, Germany, Latvia, Lithuania, Poland, Portugal",
+        "date": "25 June -  3 July 2026",
+        "location": "Tallinn, Estonia",
+        "deadline": "1 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10836/INGAME%20InfoPack_compressed.pdf",
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16156/application/"
+    },
+    {
+        "event_id": "14787",
+        "category": "E-learning",
+        "title": "Problem Solving and Digital Tools  in Digital Projects",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/problem-solving-and-digital-tools-in-digital-projects.14787/",
+        "summary": "This training course provides a comprehensive overview of the digital tools and technologies essential for modern project management. The course will be held only on Thursdays.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "11-18 June 2026",
+        "location": "Online, Portugal",
+        "deadline": "4 June 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfzYRpsMJYzCVySVxrkKDqXD_HcSocrlXPv78XlOpul3rkQpg/viewform"
     },
     {
         "event_id": "14515",
@@ -102,6 +115,19 @@
         "deadline": "18 June 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10829/Resprout%20our%20roots%20%20more-than-human%20and%20imagination%202026%20Infopack.pdf",
         "application_form": "https://framaforms.org/sy-application-form-resprout-our-roots-more-than-human-and-imagination-training-course-1768833163"
+    },
+    {
+        "event_id": "14788",
+        "category": "Seminar",
+        "title": "International Solidarity Project Meet-Up 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-solidarity-project-meet-up-2026.14788/",
+        "summary": "The “International Solidarity Project Meet-Up” is an international meeting for national Solidarity Projects and their team members. It will bring together young people who are implementing or have implemented a Solidarity Project.",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Republic of North Macedonia, Romania, Slovak Republic, Slovenia, Spain, Sweden, Türkiye",
+        "date": "14-18 September 2026",
+        "location": "Warsaw, Poland",
+        "deadline": "30 June 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-for-solidarity?source_entity_type=group&source_entity_id=900#no-back"
     },
     {
         "event_id": "14631",
