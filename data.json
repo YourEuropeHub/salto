@@ -26,6 +26,45 @@
         "application_form": "https://forms.gle/Tq6xXUxdSTjpJRhf9"
     },
     {
+        "event_id": "14804",
+        "category": "Training Course",
+        "title": "ConnectYON Makers",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/connectyon-makers.14804/",
+        "summary": "“ConnectYON Makers” is an international training course designed for youth workers, educators, and changemakers who want to explore innovative ways to connect with Yourself, Others, and Nature.",
+        "participants_from": "Croatia, Czech Republic, France, Germany, Greece, Hungary, Ireland, Italy, Poland, Romania, Slovenia, Spain",
+        "date": "26 July -  6 August 2026",
+        "location": "Grzybów, Poland",
+        "deadline": "31 May 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfsAY_7424XRNfImLgmrsAsepkZyqw2ynKoYDrp-b4w7QAhtQ/viewform?usp=dialog"
+    },
+    {
+        "event_id": "14798",
+        "category": "Partnership-building Activity",
+        "title": "PBA Bridges for Future 2",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pba-bridges-for-future-2.14798/",
+        "summary": "\"Bridges for Future 2\" is a 7-day partnership-building activity aimed at ESC accredited organisations from Programme Countries. It is an opportunity to create new partnerships and share knowledge about the future of the ESC programme.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "2-8 August 2026",
+        "location": "KulturHaus, close to Bremen, Germany",
+        "deadline": "31 May 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10838/PBA%20Bridges%20for%20Future%202_Info%20pack.pdf",
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16158/application/"
+    },
+    {
+        "event_id": "14792",
+        "category": "Training Course",
+        "title": "SEEDing – Nurturing the Ecological Self",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/seeding-nurturing-the-ecological-self.14792/",
+        "summary": "A training in ecocentric, nature-based youth work. We are going to expand our Ecological Self through the exploration of three fundamental concepts and nature-based educational approaches: Ecocentric Development, Deep Ecology and Outdoor Education.",
+        "participants_from": "Bulgaria, Romania",
+        "date": "26 July -  3 August 2026",
+        "location": "Chatama protected area, Bulgaria",
+        "deadline": "1 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10834/SEEDing%20-%20Nurturing%20the%20Ecological%20Self.pdf",
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfzclwCc1RdtzgIAoYIrXGOEY65ChtfY-9msWHoSrUJJV2yJg/viewform"
+    },
+    {
         "event_id": "14800",
         "category": "Seminar",
         "title": "Trash to treasure: introducing circular economy and green jobs in youth work",
@@ -180,6 +219,19 @@
         "deadline": "22 July 2026",
         "infopack": null,
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15952/application/"
+    },
+    {
+        "event_id": "14467",
+        "category": "E-learning",
+        "title": "Belarus in Erasmus+ & European Solidarity Corps: Consultations for Belarusian Youth and Potential Partners",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/belarus-in-erasmus-european-solidarity-corps-consultations-for-belarusian-youth-and-potential-partners.14467/",
+        "summary": "Are you a young person from Belarus interested in Erasmus+ or the ESC volunteering? \r\n\r\nOr an organization interested in working with Belarus but unsure how to navigate the current context?\r\n\r\nGet a consultation with clear guidance and support.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries",
+        "date": "1 August -  1 December 2026",
+        "location": "Belarus",
+        "deadline": "30 July 2026",
+        "infopack": null,
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15776/application/"
     },
     {
         "event_id": "14513",
