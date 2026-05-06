@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14787",
-        "category": "E-learning",
-        "title": "Problem Solving and Digital Tools  in Digital Projects",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/problem-solving-and-digital-tools-in-digital-projects.14787/",
-        "summary": "This training course provides a comprehensive overview of the digital tools and technologies essential for modern project management. The course will be held only on Thursdays.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "11-18 June 2026",
-        "location": "Online, Portugal",
-        "deadline": "4 June 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfzYRpsMJYzCVySVxrkKDqXD_HcSocrlXPv78XlOpul3rkQpg/viewform"
-    },
-    {
         "event_id": "14515",
         "category": "Training Course",
         "title": "TOP: Trainers' workshop on preparedness",
@@ -26,6 +13,19 @@
         "application_form": "https://tcanetplatform.com/form/top-trainers-workshops-on-prepar?source_entity_type=group&source_entity_id=897#no-back"
     },
     {
+        "event_id": "14823",
+        "category": "Training Course",
+        "title": "SOFT: The Subtle Art of Facilitation- 2nd Edition",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/soft-the-subtle-art-of-facilitation-2nd-edition.14823/",
+        "summary": "We are inviting facilitators, educators, trainers and others involved in the facilitation of learning to join “SOFT: The Subtle Art of Facilitation -2nd Edition”, 26.10. - 01.11.2026 | Weimar (Germany) & 05.-11.04.2027 | Torre dell'Orso (Italy)",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "26 October -  1 November 2026",
+        "location": "Weimar, Germany",
+        "deadline": "7 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10852/SOFT_2nd%20Edition_CALL%20for%20Participants_FINAL_05052026.pdf",
+        "application_form": "https://forms.gle/vZvYNkWbF9aoxC229 "
+    },
+    {
         "event_id": "14764",
         "category": "Training Course",
         "title": "Training course \"Dive into youth participation in Sports sector\"",
@@ -37,6 +37,19 @@
         "deadline": "8 June 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10820/Draft%20Programme%20-%20Training%20Course_%20Dive%20into%20youth%20Participation%20in%20Sports%20sector.docx",
         "application_form": "https://tcanetplatform.com/form/dive-into-youth-participation-in?source_entity_type=group&source_entity_id=895#no-back"
+    },
+    {
+        "event_id": "14729",
+        "category": "Training Course",
+        "title": "Sapounofouska Playful Learning Fest",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sapounofouska-playful-learning-fest.14729/",
+        "summary": "A 3-day outdoor experience for youth and educators combining STEAM, theatre, music-and-movement play, improv, group activities, nature, picnic, and party, ending each day with a hands-on 5E-based workshop. \r\n\r\nThe working language will be English.",
+        "participants_from": "Finland, Greece, Russian Federation, Spain, Southern Mediterranean countries",
+        "date": "26-28 June 2026",
+        "location": "Greece",
+        "deadline": "8 June 2026",
+        "infopack": null,
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16079/application/"
     },
     {
         "event_id": "14709",
