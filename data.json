@@ -139,8 +139,8 @@
         "date": "29 September -  4 October 2026",
         "location": "Rochefort-en-Terre, France",
         "deadline": "17 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10689/Lettre%20infos%20logistique%20PoNFE%202026.docx, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10690/Pax%20pack%202026%20fr.pdf",
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15842/application/"
+        "infopack": null,
+        "application_form": null
     },
     {
         "event_id": "14620",
