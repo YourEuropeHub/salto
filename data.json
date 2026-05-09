@@ -1,44 +1,5 @@
 [
     {
-        "event_id": "14515",
-        "category": "Training Course",
-        "title": "TOP: Trainers' workshop on preparedness",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/top-trainers-workshop-on-preparedness.14515/",
-        "summary": "This is not a course about ticking the “preparedness” box. This is a space to ask uncomfortable questions, challenge assumptions, and think about what it means to be ready and prepared.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "24-29 August 2026",
-        "location": "Korbielów, Poland",
-        "deadline": "7 June 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/top-trainers-workshops-on-prepar?source_entity_type=group&source_entity_id=897#no-back"
-    },
-    {
-        "event_id": "14823",
-        "category": "Training Course",
-        "title": "SOFT: The Subtle Art of Facilitation- 2nd Edition",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/soft-the-subtle-art-of-facilitation-2nd-edition.14823/",
-        "summary": "We are inviting facilitators, educators, trainers and others involved in the facilitation of learning to join “SOFT: The Subtle Art of Facilitation -2nd Edition”, 26.10. - 01.11.2026 | Weimar (Germany) & 05.-11.04.2027 | Torre dell'Orso (Italy)",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "26 October -  1 November 2026",
-        "location": "Weimar, Germany",
-        "deadline": "7 June 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10852/SOFT_2nd%20Edition_CALL%20for%20Participants_FINAL_05052026.pdf",
-        "application_form": "https://forms.gle/vZvYNkWbF9aoxC229 "
-    },
-    {
-        "event_id": "14818",
-        "category": "Training Course",
-        "title": "Setting Sail for Strategic International Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/setting-sail-for-strategic-international-youth-work.14818/",
-        "summary": "Join this 3‑day training and explore how to embed international work strategically in your youth work organisation.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "5-8 October 2026",
-        "location": "Oostend, Belgium - FL",
-        "deadline": "8 June 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10849/SETTING%20SAIL%20for%20International%20youth%20work%20Strategies%20AGENDA.pdf",
-        "application_form": "https://tcanetplatform.com/form/setting-sail-for-strategic-inter?source_entity_type=group&source_entity_id=916#no-back"
-    },
-    {
         "event_id": "14729",
         "category": "Training Course",
         "title": "Sapounofouska Playful Learning Fest",
@@ -65,6 +26,19 @@
         "application_form": "https://tcanetplatform.com/form/dive-into-youth-participation-in?source_entity_type=group&source_entity_id=895#no-back"
     },
     {
+        "event_id": "14818",
+        "category": "Training Course",
+        "title": "Setting Sail for Strategic International Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/setting-sail-for-strategic-international-youth-work.14818/",
+        "summary": "Join this 3‑day training and explore how to embed international work strategically in your youth work organisation.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "5-8 October 2026",
+        "location": "Oostend, Belgium - FL",
+        "deadline": "8 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10849/SETTING%20SAIL%20for%20International%20youth%20work%20Strategies%20AGENDA.pdf",
+        "application_form": "https://tcanetplatform.com/form/setting-sail-for-strategic-inter?source_entity_type=group&source_entity_id=916#no-back"
+    },
+    {
         "event_id": "14709",
         "category": "Seminar",
         "title": "Erasmus4Democracy ProjectLab",
@@ -76,6 +50,32 @@
         "deadline": "15 June 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/application-form-erasmus42026?source_entity_type=group&source_entity_id=879#no-back"
+    },
+    {
+        "event_id": "14828",
+        "category": "Training Course",
+        "title": "Climate Matters!",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/climate-matters.14828/",
+        "summary": "The training brings together NGOs, trainers and youth workers to address how to discuss climate issues despite polarisation and how to create educational spaces for young people that facilitate exchange, provide guidance, and state: Climate Matters!",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Czech Republic, Denmark, France, Germany, Hungary, Italy, Liechtenstein, Lithuania, Luxembourg, Netherlands, Poland, Romania, Slovak Republic, Slovenia, Spain, Sweden",
+        "date": "15-20 August 2026",
+        "location": "Trebnitz (near Berlin), Germany",
+        "deadline": "15 June 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10853/ClimateMatters!_program%28draft%29_Kreisau-Initiative.pdf",
+        "application_form": "https://kreisauinitiative.wufoo.com/forms/application-form-climate-matters/"
+    },
+    {
+        "event_id": "14801",
+        "category": "Training Course",
+        "title": "Rooted in Collective Hope - shaping a future we belong to",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/rooted-in-collective-hope-shaping-a-future-we-belong-to.14801/",
+        "summary": "Supporting youth workers with methods to create safe spaces, cultivate hope, and encourage meaningful participation in times of social and environmental uncertainty.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "6-13 September 2026",
+        "location": "Etyek, Hungary",
+        "deadline": "15 June 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/BRcT4VA3KGJ3DfWj7"
     },
     {
         "event_id": "14781",
@@ -232,5 +232,18 @@
         "deadline": "30 September 2032",
         "infopack": null,
         "application_form": "https://forms.gle/eP5iVaq5cGhBLmEKA"
+    },
+    {
+        "event_id": "14690",
+        "category": "Training Course",
+        "title": "Connecting garden",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/connecting-garden.14690/",
+        "summary": "This is a training course to get to learn how to accompany young people to create a natural space for nature reconnection, self and other reconnection.",
+        "participants_from": "Armenia, France, Georgia, Greece, Italy, Lithuania, Romania, Spain, Türkiye",
+        "date": "15-23 July 2926",
+        "location": "France",
+        "deadline": "1 June 2926",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeMYE3jgrcq1XXx6ERsxJk4PZaUbvdEp4K4SakoroNgBB9fZQ/viewform?usp=header"
     }
 ]
