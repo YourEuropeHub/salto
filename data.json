@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14853",
-        "category": "Training Course",
-        "title": "E+qualizer: from Equality to Equity",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/e-qualizer-from-equality-to-equity.14853/",
-        "summary": "The project focuses on promoting equality, combating discrimination and stereotypes, and equipping participants with practical tools and methods to create more inclusive communities.",
-        "participants_from": "Croatia, Cyprus, Italy, Poland, Portugal, Romania",
-        "date": "13-22 July 2026",
-        "location": "Pińczów, Poland",
-        "deadline": "13 June 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10867/E+qualizer%20From%20Equality%20to%20Equity.pdf",
-        "application_form": "https://forms.gle/DH22EBLXCV3HidSB7"
-    },
-    {
         "event_id": "14709",
         "category": "Seminar",
         "title": "Erasmus4Democracy ProjectLab",
@@ -76,6 +63,19 @@
         "deadline": "20 June 2026",
         "infopack": null,
         "application_form": "https://forms.gle/XzyGJ4FD6dTi7jXD8"
+    },
+    {
+        "event_id": "14869",
+        "category": "Training Course",
+        "title": "Authentic Leaders for Collective Action",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/authentic-leaders-for-collective-action.14869/",
+        "summary": "\"Authentic Leaders for Collective Action\" training course is a unique immersion of 10 days  where 22 youth workers will discover cooperation tools and embodiment practices to foster an authentic leadership.",
+        "participants_from": "France, Germany, Italy, Poland, Portugal, Spain",
+        "date": "1-12 September 2026",
+        "location": "Oasis des âges, Chartrier Ferrière, France",
+        "deadline": "29 June 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfCYGybzEK_eunqGuUv_ouw-i5FcPa_c7hA1oR4C_bV9qVktg/viewform?usp=header"
     },
     {
         "event_id": "14788",
