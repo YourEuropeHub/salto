@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14902",
-        "category": "Training Course",
-        "title": "Projektwerkstatt „DiscoverEU Inklusion“",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/projektwerkstatt-discovereu-inklusion.14902/",
-        "summary": "This training will provide an overview of the DiscoverEU opportunities and will help interested organisations to plan and implement DiscoverEU Inclusion projects.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "26-28 August 2026",
-        "location": "München (Munich), Germany",
-        "deadline": "21 June 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/call-for-participants-ka155-work?source_entity_type=group&source_entity_id=941#no-back"
-    },
-    {
         "event_id": "14895",
         "category": "Training Course",
         "title": "Supporting ESC Volunteers through Mentoring Training Course",
@@ -167,6 +154,19 @@
         "deadline": "9 August 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10882/Draft%20Agenda%20Understanding%20to%20Respond.pdf",
         "application_form": "https://tcanetplatform.com/form/understanding-to-respond-youth-w?source_entity_type=group&source_entity_id=938#no-back"
+    },
+    {
+        "event_id": "14904",
+        "category": "Partnership-building Activity",
+        "title": "PBA Youth X Culture",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pba-youth-x-culture.14904/",
+        "summary": "Connect youth work & culture! This Leuven networking event helps cultural operators & youth groups build international partnerships funded by Erasmus+ and the European Solidarity Corps. Meet future partners & spark creative, inclusive projects.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "23-28 November 2026",
+        "location": "Leuven, Belgium - FL",
+        "deadline": "15 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10888/Draft%20programme%20PBA%20Youth%20and%20Culture.docx.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-form-pba-youth-and-c?source_entity_type=group&source_entity_id=942#no-back"
     },
     {
         "event_id": "14513",
