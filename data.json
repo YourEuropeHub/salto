@@ -1,44 +1,5 @@
 [
     {
-        "event_id": "14788",
-        "category": "Seminar",
-        "title": "International Solidarity Project Meet-Up 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-solidarity-project-meet-up-2026.14788/",
-        "summary": "The “International Solidarity Project Meet-Up” is an international meeting for national Solidarity Projects and their team members. It will bring together young people who are implementing or have implemented a Solidarity Project.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Republic of North Macedonia, Romania, Slovak Republic, Slovenia, Spain, Sweden, Türkiye",
-        "date": "14-18 September 2026",
-        "location": "Warsaw, Poland",
-        "deadline": "30 June 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-solidarity?source_entity_type=group&source_entity_id=900#no-back"
-    },
-    {
-        "event_id": "14830",
-        "category": "Training Course",
-        "title": "European Meeting Weaving Inclusion: IDENTITIES & ART (TEIA)",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/european-meeting-weaving-inclusion-identities-art-teia.14830/",
-        "summary": "This meeting aims to support youth workers and facilitators to better respond to the needs of young people. 8-day arts-based training in Covilhã on inclusion and diversity through arts-based workshops and co-creation, offering practical youth work tools.",
-        "participants_from": "Belgium - DE, Belgium - FL, Belgium - FR, Denmark, France, Germany, Luxembourg, Portugal, Sweden",
-        "date": "1-9 August 2026",
-        "location": "Covilhã, Portugal",
-        "deadline": "30 June 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16193/application/"
-    },
-    {
-        "event_id": "14909",
-        "category": "Training Course",
-        "title": "Bodies in Dialogue",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bodies-in-dialogue.14909/",
-        "summary": "Experiential Erasmus+ training for youth workers exploring the body as a tool to embody consent and inclusion through somatic practices, Contact Improvisation and collective learning.",
-        "participants_from": "France, Serbia, Slovak Republic, Slovenia, Spain, Sweden",
-        "date": "10-18 October 2026",
-        "location": "France",
-        "deadline": "30 June 2026",
-        "infopack": null,
-        "application_form": "https://canva.link/jz5lsse1265pdir"
-    },
-    {
         "event_id": "14631",
         "category": "Training Course",
         "title": "Media Education Academy",
@@ -232,6 +193,19 @@
         "deadline": "2 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/municipalities4democracy-applica?source_entity_type=group&source_entity_id=919#no-back"
+    },
+    {
+        "event_id": "14905",
+        "category": "Seminar",
+        "title": "Why municipal youth participation?",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/why-municipal-youth-participation.14905/",
+        "summary": "The Council of Europe Youth Department, in the framework of the project Youth revitalising democracy, and the Democracy Reloading Partnership of Erasmus+ national agencies are organising a joint Seminar for municipal youth participation policy makers.",
+        "participants_from": "ANDORRA, MONACO, Morocco, SAN MARINO, Tunisia, United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "16-21 November 2026",
+        "location": "Budapest EYCB, Hungary",
+        "deadline": "6 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/coe-dr-joint-seminar-application?source_entity_type=group&source_entity_id=946#no-back"
     },
     {
         "event_id": "14852",
