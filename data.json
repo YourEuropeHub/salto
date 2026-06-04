@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "14631",
-        "category": "Training Course",
-        "title": "Media Education Academy",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/media-education-academy.14631/",
-        "summary": "Media Education Academy is an Erasmus+ project helping educators develop media literacy, critical thinking, and digital safety skills through practical, game-based methods to navigate misinformation and online challenges.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Ukraine, Western Balkan countries",
-        "date": "1-8 October 2026",
-        "location": "Comaruga, Spain",
-        "deadline": "3 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10759/Media%20Education%20Academy%20-%20Infopack.pdf",
-        "application_form": "https://forms.gle/Lji2d9cQ4PpyJCSj9"
-    },
-    {
-        "event_id": "14898",
-        "category": "Training Course",
-        "title": "Digital Dementia: What Does Physical Friendship Mean? Physical Gifts vs. Virtual Gifts",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/digital-dementia-what-does-physical-friendship-mean-physical-gifts-vs-virtual-gifts.14898/",
-        "summary": "The Erasmus+ mobility project “Digital Dementia: What Does Physical Friendship Mean? Physical Gifts vs. Virtual Gifts” is a training course designed for youth workers, educators and NGO representatives interested in the impact of digitalization.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-25 August 2026",
-        "location": "Bicăcel, Romania",
-        "deadline": "3 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10886/Infopack%20Erasmus+%20training%20course%2017-25%20August%202026%20Bic%C4%83cel,%20Romania%20.pdf",
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16277/application/"
-    },
-    {
         "event_id": "14739",
         "category": "Training Course",
         "title": "CHA-CHING CHAMPIONS",
@@ -208,6 +182,19 @@
         "application_form": "https://tcanetplatform.com/form/application-form-working-with-qu?source_entity_type=group&source_entity_id=930#no-back"
     },
     {
+        "event_id": "14947",
+        "category": "Training Course",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "1 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
+    },
+    {
         "event_id": "14817",
         "category": "Training Course",
         "title": "Municipalities4Democracy - Local youth policy and youth voice",
@@ -234,17 +221,17 @@
         "application_form": "https://tcanetplatform.com/form/coe-dr-joint-seminar-application?source_entity_type=group&source_entity_id=946#no-back"
     },
     {
-        "event_id": "14852",
-        "category": "Partnership-building Activity",
-        "title": "ERASMUS LUX",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/erasmus-lux.14852/",
-        "summary": "Erasmus Lux is an international networking activity, aimed at accredited organisations operating in Erasmus+ Programme.",
+        "event_id": "14930",
+        "category": "Training Course",
+        "title": "Mental Health in Youth Work - Training Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mental-health-in-youth-work-training-course.14930/",
+        "summary": "The training provides a foundation for understanding how youth workers can strengthen and support young people’s mental health, wellbeing, and resilience;  aimed for youth workers who work directly with young people in youth work settings.",
         "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "16-22 November 2026",
-        "location": "Terrassa-Barcelona, Spain",
-        "deadline": "2 October 2026",
+        "date": "19-23 October 2026",
+        "location": "Finland",
+        "deadline": "7 September 2026",
         "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScSMlIAPtMtdSW45aL1bdlDw6w6ZOGra9zjfAbDsnIjNTF9BA/viewform?usp=dialog"
+        "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-trai?source_entity_type=group&source_entity_id=949#no-back"
     },
     {
         "event_id": "14419",
