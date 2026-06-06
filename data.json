@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14960",
-        "category": "Training Course",
-        "title": "Plural Perspectives 4.0 - Promoting Diversity Awareness",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/plural-perspectives-4-0-promoting-diversity-awareness.14960/",
-        "summary": "We aim to promote tolerance, equal rights and non-discriminatory values among youngsters, by learning how to create efficient Raise Awareness Campaigns.\r\n\r\nAll info - https://canva.link/s7yd5rxeielhfrd",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland",
-        "date": "8-16 August 2026",
-        "location": "Bușteni, Romania",
-        "deadline": "5 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10921/Plural%20Perspectives%204.0%20Info-pack%20small.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10922/Plural%20Perspectives%204.0%20-%20Application%20form.docx",
-        "application_form": "https://drive.google.com/drive/folders/1PlpXX8i609mNLLfZzdUV_3Yrf6bXCGj-?usp=sharing"
-    },
-    {
         "event_id": "14739",
         "category": "Training Course",
         "title": "CHA-CHING CHAMPIONS",
@@ -52,6 +39,19 @@
         "application_form": "https://forms.gle/Ln633Q765efgros49"
     },
     {
+        "event_id": "14933",
+        "category": "Training Course",
+        "title": "U in Verse",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/u-in-verse.14933/",
+        "summary": "U in Verse is an experiential training course for youth workers and educators exploring mindfulness, embodiment, nature connection, creativity and play to strengthen wellbeing, presence, resilience and facilitation skills in youth work practice.",
+        "participants_from": "Czech Republic, France, Greece, Italy, Netherlands, Poland, Portugal, Romania",
+        "date": "6-17 October 2026",
+        "location": "Chartrier-Ferrière, France",
+        "deadline": "17 July 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfCgzztm3ChJTY6Jf4zfJOdQV8aa7YkP6VD7noZwSEnd_YodQ/viewform"
+    },
+    {
         "event_id": "14521",
         "category": "Training Course",
         "title": "The Power of Non Formal Education in French / Le Pouvoir de l'éducation non formelle",
@@ -63,6 +63,19 @@
         "deadline": "17 July 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10689/Lettre%20infos%20logistique%20PoNFE%202026.docx, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10690/Pax%20pack%202026%20fr.pdf",
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15842/application/"
+    },
+    {
+        "event_id": "14367",
+        "category": "Training Course",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "19 July 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14620",
@@ -117,19 +130,6 @@
         "application_form": "https://forms.gle/nRV7fdHfse2efnzu9"
     },
     {
-        "event_id": "14886",
-        "category": "Training Course",
-        "title": "Understanding to Respond: Youth Work and Radicalisation",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/understanding-to-respond-youth-work-and-radicalisation.14886/",
-        "summary": "This training course invites youth workers to explore how radicalisation develops, how beliefs and narratives shape young people’s attitudes, and how youth work can play a meaningful role in prevention and response.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "9-13 November 2026",
-        "location": "Helsinki, Finland",
-        "deadline": "9 August 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10882/Draft%20Agenda%20Understanding%20to%20Respond.pdf",
-        "application_form": "https://tcanetplatform.com/form/understanding-to-respond-youth-w?source_entity_type=group&source_entity_id=938#no-back"
-    },
-    {
         "event_id": "14954",
         "category": "Partnership-building Activity",
         "title": "Volunteering Teams as a Tool to support Inclusion",
@@ -141,6 +141,19 @@
         "deadline": "9 August 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10917/Draft%20Programme%20-%20Call%20for%20PAX.pdf",
         "application_form": "https://tcanetplatform.com/form/volunteering-teams-as-a-tool-for?source_entity_type=group&source_entity_id=987#no-back"
+    },
+    {
+        "event_id": "14886",
+        "category": "Training Course",
+        "title": "Understanding to Respond: Youth Work and Radicalisation",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/understanding-to-respond-youth-work-and-radicalisation.14886/",
+        "summary": "This training course invites youth workers to explore how radicalisation develops, how beliefs and narratives shape young people’s attitudes, and how youth work can play a meaningful role in prevention and response.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "9-13 November 2026",
+        "location": "Helsinki, Finland",
+        "deadline": "9 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10882/Draft%20Agenda%20Understanding%20to%20Respond.pdf",
+        "application_form": "https://tcanetplatform.com/form/understanding-to-respond-youth-w?source_entity_type=group&source_entity_id=938#no-back"
     },
     {
         "event_id": "14915",
