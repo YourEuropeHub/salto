@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14968",
-        "category": "Training Course",
-        "title": "Cross Over for Impact 2026 – International Training Course on the Quality of Erasmus+ KA2 Projects in the Youth Field",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/cross-over-for-impact-2026-international-training-course-on-the-quality-of-erasmus-ka2-projects-in-the-youth-field.14968/",
-        "summary": "“Cross Over for Impact 2026” aims to support organizations in developing high-quality and sustainable Erasmus+ KA2 Partnerships for Cooperation projects that address current challenges, strengthen the youth field, and build youth workers’ capacities.",
-        "participants_from": "Czech Republic, France, Germany, Hungary, Iceland, Latvia, Lithuania, Malta, Netherlands, Slovak Republic",
-        "date": "14-19 September 2026",
-        "location": "Jurmala, Latvia",
-        "deadline": "12 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10935/Cross%20Over%20for%20Impact%202026%20in%20Latvia%20Program%20%28DRAFT%29.pdf",
-        "application_form": "https://tcanetplatform.com/form/cross-over-for-impact-2026?source_entity_type=group&source_entity_id=993#no-back"
-    },
-    {
         "event_id": "14955",
         "category": "Training Course",
         "title": "First Aid Kit for Emotional Wellbeing. Tools to promote emotional wellness in young people.",
@@ -76,19 +63,6 @@
         "deadline": "17 July 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10689/Lettre%20infos%20logistique%20PoNFE%202026.docx, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10690/Pax%20pack%202026%20fr.pdf",
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15842/application/"
-    },
-    {
-        "event_id": "14367",
-        "category": "Training Course",
-        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
-        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-19 November 2026",
-        "location": "Luxembourg, Luxembourg",
-        "deadline": "19 July 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14980",
@@ -375,6 +349,19 @@
         "deadline": "7 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-trai?source_entity_type=group&source_entity_id=949#no-back"
+    },
+    {
+        "event_id": "14367",
+        "category": "Training Course",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "30 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14419",
