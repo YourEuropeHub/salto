@@ -26,6 +26,19 @@
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15842/application/"
     },
     {
+        "event_id": "14989",
+        "category": "E-learning",
+        "title": "VIRTUALLYEDU – Virtual Exchanges and Education on Digital Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/virtuallyedu-virtual-exchanges-and-education-on-digital-skills.14989/",
+        "summary": "Want to boost digital skills, learn cybersecurity & connect with youth worldwide? Join VIRTUALLYEDU — an Erasmus+ initiative uniting young people from Europe & the Eastern Neighbourhood!",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "21 July - 30 September 2026",
+        "location": "Online, Sweden",
+        "deadline": "19 July 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10937/Dissemination%20Posts.png",
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfD0zL4NTLjssBSVD-QtMYF4EY-kT4T5che0d-NDg6oJTo-Hw/viewform?usp=sharing&ouid=101856328341187814976"
+    },
+    {
         "event_id": "14980",
         "category": "Training Course",
         "title": "Patrimonium - Preserving Local Heritage",
@@ -139,7 +152,7 @@
         "date": "7-25 September 2026",
         "location": "Denmark",
         "deadline": "3 August 2026",
-        "infopack": null,
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10944/Bus%20Trip%20Info%20Pack.pdf-1.pdf",
         "application_form": "https://forms.gle/nRV7fdHfse2efnzu9"
     },
     {
@@ -245,6 +258,19 @@
         "deadline": "31 August 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10933/Project%20LAB_%20Tandem%20%28trainers%20workspace%20-%20timetable,%20script,%20notes%29%20-%20program%20time-line_%20flow.pdf",
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
+    },
+    {
+        "event_id": "14998",
+        "category": "E-learning",
+        "title": "Engaging Communities Through Sustainable Sport Communication",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/engaging-communities-through-sustainable-sport-communication.14998/",
+        "summary": "This webinar explores effective communication strategies, stakeholder engagement, and awareness campaigns at local and EU level that can be used by youth workers and trainers using sport as a tool in their daily work.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "15 October 2026",
+        "location": "online, Croatia",
+        "deadline": "1 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
+        "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
     },
     {
         "event_id": "14947",
