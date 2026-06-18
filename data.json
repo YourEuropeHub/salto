@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "14933",
-        "category": "Training Course",
-        "title": "U in Verse",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/u-in-verse.14933/",
-        "summary": "U in Verse is an experiential training course for youth workers and educators exploring mindfulness, embodiment, nature connection, creativity and play to strengthen wellbeing, presence, resilience and facilitation skills in youth work practice.",
-        "participants_from": "Czech Republic, France, Greece, Italy, Netherlands, Poland, Portugal, Romania",
-        "date": "6-17 October 2026",
-        "location": "Chartrier-Ferrière, France",
-        "deadline": "17 July 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfCgzztm3ChJTY6Jf4zfJOdQV8aa7YkP6VD7noZwSEnd_YodQ/viewform"
-    },
-    {
-        "event_id": "14521",
-        "category": "Training Course",
-        "title": "The Power of Non Formal Education in French / Le Pouvoir de l'éducation non formelle",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/the-power-of-non-formal-education-in-french-le-pouvoir-de-l-ducation-non-formelle.14521/",
-        "summary": "Training in French. Improving impact of Non Formal Education (NFE). Améliorer l'impact, les principes et les méthodes de l'ENF pour inviter les jeunes à être acteurs de changements sociaux. Repenser nos pratiques, en français.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "29 September -  4 October 2026",
-        "location": "Rochefort-en-Terre, France",
-        "deadline": "17 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10689/Lettre%20infos%20logistique%20PoNFE%202026.docx, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10690/Pax%20pack%202026%20fr.pdf",
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15842/application/"
-    },
-    {
         "event_id": "14989",
         "category": "E-learning",
         "title": "VIRTUALLYEDU – Virtual Exchanges and Education on Digital Skills",
@@ -260,19 +234,6 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "14998",
-        "category": "E-learning",
-        "title": "Engaging Communities Through Sustainable Sport Communication",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/engaging-communities-through-sustainable-sport-communication.14998/",
-        "summary": "This webinar explores effective communication strategies, stakeholder engagement, and awareness campaigns at local and EU level that can be used by youth workers and trainers using sport as a tool in their daily work.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "15 October 2026",
-        "location": "online, Croatia",
-        "deadline": "1 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
-        "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
-    },
-    {
         "event_id": "14947",
         "category": "Training Course",
         "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
@@ -284,6 +245,19 @@
         "deadline": "1 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
+    },
+    {
+        "event_id": "14998",
+        "category": "E-learning",
+        "title": "Engaging Communities Through Sustainable Sport Communication",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/engaging-communities-through-sustainable-sport-communication.14998/",
+        "summary": "This webinar explores effective communication strategies, stakeholder engagement, and awareness campaigns at local and EU level that can be used by youth workers and trainers using sport as a tool in their daily work.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "15 October 2026",
+        "location": "online, Croatia",
+        "deadline": "1 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
+        "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
     },
     {
         "event_id": "14817",
@@ -375,6 +349,19 @@
         "deadline": "30 September 2032",
         "infopack": null,
         "application_form": "https://forms.gle/eP5iVaq5cGhBLmEKA"
+    },
+    {
+        "event_id": "15005",
+        "category": "E-learning",
+        "title": "Ladder to Inclusion - Create Safer International Mobilities for Highly Vulnerable Young People Online Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ladder-to-inclusion-create-safer-international-mobilities-for-highly-vulnerable-young-people-online-course.15005/",
+        "summary": "How can international youth mobility become truly safe, inclusive, and empowering for Highly Vulnerable Young People? This self-paced course equips youth workers with practical tools, trauma-informed approaches, and safeguarding competencies for mobility.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "1 January 2033 -  2 January 2034",
+        "location": "Online, Hungary",
+        "deadline": "27 December 2032",
+        "infopack": null,
+        "application_form": "https://forms.gle/xDfjX1BDerz3k2E47"
     },
     {
         "event_id": "14690",
