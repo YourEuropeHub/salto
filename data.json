@@ -78,6 +78,32 @@
         "application_form": "https://tcanetplatform.com/form/from-spark-to-habit-inspiring-yo?source_entity_type=group&source_entity_id=772#no-back"
     },
     {
+        "event_id": "15010",
+        "category": "Training Course",
+        "title": "YOUTH WORKERS FOR MEDIA LITERACY",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-workers-for-media-literacy.15010/",
+        "summary": "MEDIA LITERACY FOR YOUTH WORKERS is a training course on media literacy education dedicated to youth workers.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "14-19 September 2026",
+        "location": "Targoviste, Romania",
+        "deadline": "25 July 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10949/Training%20course.pdf_compressed.pdf",
+        "application_form": "https://forms.gle/UJcrYH5DBKZyHWDz5"
+    },
+    {
+        "event_id": "15001",
+        "category": "Training Course",
+        "title": "Young Baltic Energy Futures",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/young-baltic-energy-futures.15001/",
+        "summary": "The training creates a cross-border space for learning and dialogue for young people to discuss the interconnection between energy supply, geopolitical stability, and climate action in the Baltic Sea region.",
+        "participants_from": "Denmark, Estonia, Finland, Germany, Latvia, Lithuania, Norway, Poland, Sweden",
+        "date": "30 August -  3 September 2026",
+        "location": "Trebnitz (near Berlin), Germany",
+        "deadline": "26 July 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10950/%5BDrafted_program%5D_YBEF_TC%20European.Youth.Multiplier.Workshop.pdf",
+        "application_form": "https://kreisauinitiative.wufoo.com/forms/application-form-young-baltic-energy-futures/"
+    },
+    {
         "event_id": "14931",
         "category": "Training Course",
         "title": "Supporting Volunteer's Mental Health through Mentoring",
@@ -169,6 +195,19 @@
         "application_form": "https://tcanetplatform.com/form/power-project-factory-for-empowe?source_entity_type=group&source_entity_id=951#no-back"
     },
     {
+        "event_id": "15006",
+        "category": "Training Course",
+        "title": "KI in Erasmus+ Jugend und ESK – Digitalen Wandel aktiv gestalten (Deutschsprachig)",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ki-in-erasmus-jugend-und-esk-digitalen-wandel-aktiv-gestalten-deutschsprachig.15006/",
+        "summary": "Der Veranstaltungsort wird noch bekannt gegeben , Germany",
+        "participants_from": "Austria, Belgium - DE, Germany, Liechtenstein, Luxembourg",
+        "date": "28 September -  2 October 2026",
+        "location": "Der Veranstaltungsort wird noch bekannt gegeben , Germany",
+        "deadline": "14 August 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-ki-in-erasmus-j?source_entity_type=group&source_entity_id=1003#no-back"
+    },
+    {
         "event_id": "14904",
         "category": "Partnership-building Activity",
         "title": "PBA Youth X Culture",
@@ -234,19 +273,6 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "14947",
-        "category": "Training Course",
-        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
-        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
-        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Slovak Republic",
-        "deadline": "1 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
-    },
-    {
         "event_id": "14998",
         "category": "E-learning",
         "title": "Engaging Communities Through Sustainable Sport Communication",
@@ -258,6 +284,19 @@
         "deadline": "1 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
         "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
+    },
+    {
+        "event_id": "14947",
+        "category": "Training Course",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "1 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "14817",
