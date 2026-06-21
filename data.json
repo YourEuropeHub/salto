@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "14966",
-        "category": "Training Course",
-        "title": "Mind the gap - Human Rights Education: From Ideas to Practice",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mind-the-gap-human-rights-education-from-ideas-to-practice.14966/",
-        "summary": "Through experiential and non-formal learning, this training course supports youth workers in strengthening their facilitation skills and designing inclusive educational activities related to human rights, participation, and social inclusion.",
-        "participants_from": "Armenia, Georgia, Moldova, Ukraine, Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "15-23 August 2026",
-        "location": "Domony, Hungary",
-        "deadline": "20 July 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10924/Infopack%20-%20Mind%20the%20Gap%20-%20Human%20Rights%20Education.pdf",
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSe9HIFIPRWgk8Be20sYdToOplADO3QzM1gjq_YKFghIkpHvEg/viewform"
-    },
-    {
-        "event_id": "14986",
-        "category": "Training Course",
-        "title": "Human Spices",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/human-spices.14986/",
-        "summary": "Personal Taste invites participants to rediscover their inner flavour, developing a more compassionate relationship with themselves and a deeper appreciation of their own uniqueness, through embodiment, movement and nature-based learning.",
-        "participants_from": "Cyprus, France, Germany, Greece, Italy, Latvia, Portugal, Spain",
-        "date": "19-30 October 2026",
-        "location": "Oasis des Ages, France",
-        "deadline": "20 July 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/VnmYMgEtq3Phac5c7"
-    },
-    {
         "event_id": "14620",
         "category": "Training Course",
         "title": "The Playbook for Inclusion: Socio-Sports Leadership",
@@ -247,19 +221,6 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "14947",
-        "category": "Training Course",
-        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
-        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
-        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Slovak Republic",
-        "deadline": "1 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
-    },
-    {
         "event_id": "14998",
         "category": "E-learning",
         "title": "Engaging Communities Through Sustainable Sport Communication",
@@ -271,6 +232,19 @@
         "deadline": "1 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
         "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
+    },
+    {
+        "event_id": "14947",
+        "category": "Training Course",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "1 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "14817",
