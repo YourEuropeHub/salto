@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14620",
-        "category": "Training Course",
-        "title": "The Playbook for Inclusion: Socio-Sports Leadership",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/the-playbook-for-inclusion-socio-sports-leadership.14620/",
-        "summary": "Focus on suppot young sport educator who want to use sport as a tool of inclusion. To promote diversity in sports and increase awareness of gender equality. Aimed for youth NGO that work with non-formal education for youth empowerment.",
-        "participants_from": "Algeria, Armenia, Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Italy, Jordan, Latvia, Liechtenstein, Lithuania, Luxembourg, Morocco, Netherlands, Norway, Palestine, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Tunisia, Türkiye, Ukraine",
-        "date": "2-9 November 2026",
-        "location": "Llinars del vallés, Spain",
-        "deadline": "22 July 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15952/application/"
-    },
-    {
         "event_id": "14349",
         "category": "Training Course",
         "title": "From Spark to Habit: Inspiring young people to an active Lifestyle (in German language)",
@@ -117,19 +104,6 @@
         "application_form": "https://forms.gle/nRV7fdHfse2efnzu9"
     },
     {
-        "event_id": "14886",
-        "category": "Training Course",
-        "title": "Understanding to Respond: Youth Work and Radicalisation",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/understanding-to-respond-youth-work-and-radicalisation.14886/",
-        "summary": "This training course invites youth workers to explore how radicalisation develops, how beliefs and narratives shape young people’s attitudes, and how youth work can play a meaningful role in prevention and response.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "9-13 November 2026",
-        "location": "Helsinki, Finland",
-        "deadline": "9 August 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10882/Draft%20Agenda%20Understanding%20to%20Respond.pdf",
-        "application_form": "https://tcanetplatform.com/form/understanding-to-respond-youth-w?source_entity_type=group&source_entity_id=938#no-back"
-    },
-    {
         "event_id": "14954",
         "category": "Partnership-building Activity",
         "title": "Volunteering Teams as a Tool to support Inclusion",
@@ -141,6 +115,19 @@
         "deadline": "9 August 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10917/Draft%20Programme%20-%20Call%20for%20PAX.pdf",
         "application_form": "https://tcanetplatform.com/form/volunteering-teams-as-a-tool-for?source_entity_type=group&source_entity_id=987#no-back"
+    },
+    {
+        "event_id": "14886",
+        "category": "Training Course",
+        "title": "Understanding to Respond: Youth Work and Radicalisation",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/understanding-to-respond-youth-work-and-radicalisation.14886/",
+        "summary": "This training course invites youth workers to explore how radicalisation develops, how beliefs and narratives shape young people’s attitudes, and how youth work can play a meaningful role in prevention and response.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "9-13 November 2026",
+        "location": "Helsinki, Finland",
+        "deadline": "9 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10882/Draft%20Agenda%20Understanding%20to%20Respond.pdf",
+        "application_form": "https://tcanetplatform.com/form/understanding-to-respond-youth-w?source_entity_type=group&source_entity_id=938#no-back"
     },
     {
         "event_id": "14915",
@@ -162,7 +149,7 @@
         "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ki-in-erasmus-jugend-und-esk-digitalen-wandel-aktiv-gestalten-deutschsprachig.15006/",
         "summary": "Der Veranstaltungsort wird noch bekannt gegeben , Germany",
         "participants_from": "Austria, Belgium - DE, Germany, Liechtenstein, Luxembourg",
-        "date": "28 September -  2 October 2026",
+        "date": "29 September -  2 October 2026",
         "location": "Der Veranstaltungsort wird noch bekannt gegeben , Germany",
         "deadline": "14 August 2026",
         "infopack": null,
@@ -234,17 +221,17 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "14947",
+        "event_id": "15013",
         "category": "Training Course",
-        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
-        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
-        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Slovak Republic",
+        "title": "Green Skills 4 Future",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-skills-4-future.15013/",
+        "summary": "Green Skills 4 Future is a two-stage international training course empowering youth workers with practical green skills, sustainability knowledge, and tools to inspire young people to actively participate in the green transition.",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Ukraine, Western Balkan countries",
+        "date": "15-22 October 2026",
+        "location": "Sliven, Bulgaria",
         "deadline": "1 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10952/GS4F%202.0%20infopack.pdf",
+        "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
     },
     {
         "event_id": "14998",
@@ -260,17 +247,17 @@
         "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
     },
     {
-        "event_id": "15013",
+        "event_id": "14947",
         "category": "Training Course",
-        "title": "Green Skills 4 Future",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-skills-4-future.15013/",
-        "summary": "Green Skills 4 Future is a two-stage international training course empowering youth workers with practical green skills, sustainability knowledge, and tools to inspire young people to actively participate in the green transition.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Ukraine, Western Balkan countries",
-        "date": "15-22 October 2026",
-        "location": "Sliven, Bulgaria",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
         "deadline": "1 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10952/GS4F%202.0%20infopack.pdf",
-        "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "14817",
