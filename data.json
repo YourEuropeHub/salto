@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14349",
-        "category": "Training Course",
-        "title": "From Spark to Habit: Inspiring young people to an active Lifestyle (in German language)",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-spark-to-habit-inspiring-young-people-to-an-active-lifestyle-in-german-language.14349/",
-        "summary": "In this German speaking training we will explore innovative, low-threshold approaches to motivate young people and exchange best-practices (Expert input, round tables, in/outdoor workshops).",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "22-25 September 2026",
-        "location": "Sporthotel Leweck, Lipperscheid , Luxembourg",
-        "deadline": "24 July 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/from-spark-to-habit-inspiring-yo?source_entity_type=group&source_entity_id=772#no-back"
-    },
-    {
         "event_id": "15010",
         "category": "Training Course",
         "title": "YOUTH WORKERS FOR MEDIA LITERACY",
@@ -37,6 +24,45 @@
         "deadline": "26 July 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10950/%5BDrafted_program%5D_YBEF_TC%20European.Youth.Multiplier.Workshop.pdf",
         "application_form": "https://kreisauinitiative.wufoo.com/forms/application-form-young-baltic-energy-futures/"
+    },
+    {
+        "event_id": "15026",
+        "category": "E-learning",
+        "title": "STEAM in Youth Work: Creative projects for young people",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/steam-in-youth-work-creative-projects-for-young-people.15026/",
+        "summary": "An introductory online workshop for youth workers to use STEAM (Science, Technology, Engineering, Arts, Maths) in non‑formal education. Participants design simple, low‑threshold STEAM activities that foster creativity, teamwork and critical thinking.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "10 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "27 July 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/aHsAu8fyDnLMqRZv6"
+    },
+    {
+        "event_id": "15029",
+        "category": "Partnership-building Activity",
+        "title": "Virtual Partnership Building Activity (PBA) for Erasmus+ KA152 & KA153 Projects Vol. 4",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/virtual-partnership-building-activity-pba-for-erasmus-ka152-ka153-projects-vol-4.15029/",
+        "summary": "Virtual Partnership Building Activity for youth organizations to network, share project ideas, and build strong Erasmus+ KA152/KA153 partnerships. Join us on 1st and 2nd August to co-create impactful mobility projects!",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "1-2 August 2026",
+        "location": "Online (via Zoom), Georgia",
+        "deadline": "27 July 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/rhSPp5NSJpxGUFrE8"
+    },
+    {
+        "event_id": "14945",
+        "category": "Training Course",
+        "title": "Sapounofouska Playful Learning Fest",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sapounofouska-playful-learning-fest.14945/",
+        "summary": "A 3-day outdoor experience for youth and educators combining STEAM, theatre, music-and-movement play, improv, group activities, nature, picnic, and party, ending each day with a hands-on 5E-based workshop.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "11-13 September 2026",
+        "location": "Athens, Greece",
+        "deadline": "28 July 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/6ZiuvvbPYFmrn7iT8"
     },
     {
         "event_id": "14931",
@@ -78,6 +104,32 @@
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16201/application/"
     },
     {
+        "event_id": "15018",
+        "category": "Seminar",
+        "title": "Ask Better, Teach Better: Question‑driven AI & advocacy in youth work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ask-better-teach-better-question-driven-ai-advocacy-in-youth-work.15018/",
+        "summary": "A hands-on online workshop for youth workers to design better questions – for their groups and for AI. Using empathy maps, fishbone and “How might we…?” prompts, participants turn real needs into meaningful learning and concrete actions.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "5 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 July 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/fVsCmDwp5UHM4cFR9"
+    },
+    {
+        "event_id": "15031",
+        "category": "E-learning",
+        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
+        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "8 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 July 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
+    },
+    {
         "event_id": "15011",
         "category": "Study Visit",
         "title": "EU Paths and Perspectives",
@@ -89,6 +141,19 @@
         "deadline": "1 August 2026",
         "infopack": null,
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfsbckZEEbA1z7M9vSqZbAbG15DOiqA0WE4W2ezyjdSXsYXOA/viewform?usp=header"
+    },
+    {
+        "event_id": "15021",
+        "category": "Training Course",
+        "title": "TOSCA Volunteering – Training and Support for Organisations in the European Solidarity Corps",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tosca-volunteering-training-and-support-for-organisations-in-the-european-solidarity-corps.15021/",
+        "summary": "The training activity aims to support and build up the capacities of organisations that actively participate in volunteering actions of the European Solidarity Corps, in order to ensure quality and impact in the respective projects.",
+        "participants_from": "Armenia, Azerbaijan, Georgia, Moldova, Ukraine, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "12-16 October 2026",
+        "location": "Prague, Czech Republic",
+        "deadline": "3 August 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/tosca-cz-2026?source_entity_type=group&source_entity_id=1014"
     },
     {
         "event_id": "14934",
@@ -234,19 +299,6 @@
         "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
     },
     {
-        "event_id": "14998",
-        "category": "E-learning",
-        "title": "Engaging Communities Through Sustainable Sport Communication",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/engaging-communities-through-sustainable-sport-communication.14998/",
-        "summary": "This webinar explores effective communication strategies, stakeholder engagement, and awareness campaigns at local and EU level that can be used by youth workers and trainers using sport as a tool in their daily work.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "15 October 2026",
-        "location": "online, Croatia",
-        "deadline": "1 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
-        "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
-    },
-    {
         "event_id": "14947",
         "category": "Training Course",
         "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
@@ -258,6 +310,19 @@
         "deadline": "1 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
+    },
+    {
+        "event_id": "14998",
+        "category": "E-learning",
+        "title": "Engaging Communities Through Sustainable Sport Communication",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/engaging-communities-through-sustainable-sport-communication.14998/",
+        "summary": "This webinar explores effective communication strategies, stakeholder engagement, and awareness campaigns at local and EU level that can be used by youth workers and trainers using sport as a tool in their daily work.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "15 October 2026",
+        "location": "online, Croatia",
+        "deadline": "1 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
+        "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
     },
     {
         "event_id": "14817",
