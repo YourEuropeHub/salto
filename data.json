@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "15026",
-        "category": "E-learning",
-        "title": "STEAM in Youth Work: Creative projects for young people",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/steam-in-youth-work-creative-projects-for-young-people.15026/",
-        "summary": "An introductory online workshop for youth workers to use STEAM (Science, Technology, Engineering, Arts, Maths) in non‑formal education. Participants design simple, low‑threshold STEAM activities that foster creativity, teamwork and critical thinking.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "10 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "27 July 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/aHsAu8fyDnLMqRZv6"
-    },
-    {
-        "event_id": "15029",
-        "category": "Partnership-building Activity",
-        "title": "Virtual Partnership Building Activity (PBA) for Erasmus+ KA152 & KA153 Projects Vol. 4",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/virtual-partnership-building-activity-pba-for-erasmus-ka152-ka153-projects-vol-4.15029/",
-        "summary": "Virtual Partnership Building Activity for youth organizations to network, share project ideas, and build strong Erasmus+ KA152/KA153 partnerships. Join us on 1st and 2nd August to co-create impactful mobility projects!",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "1-2 August 2026",
-        "location": "Online (via Zoom), Georgia",
-        "deadline": "27 July 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/rhSPp5NSJpxGUFrE8"
-    },
-    {
         "event_id": "14945",
         "category": "Training Course",
         "title": "Sapounofouska Playful Learning Fest",
@@ -78,32 +52,6 @@
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/16201/application/"
     },
     {
-        "event_id": "15031",
-        "category": "E-learning",
-        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
-        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "8 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 July 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
-    },
-    {
-        "event_id": "15018",
-        "category": "Seminar",
-        "title": "Ask Better, Teach Better: Question‑driven AI & advocacy in youth work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ask-better-teach-better-question-driven-ai-advocacy-in-youth-work.15018/",
-        "summary": "A hands-on online workshop for youth workers to design better questions – for their groups and for AI. Using empathy maps, fishbone and “How might we…?” prompts, participants turn real needs into meaningful learning and concrete actions.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "5 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 July 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/fVsCmDwp5UHM4cFR9"
-    },
-    {
         "event_id": "15011",
         "category": "Study Visit",
         "title": "EU Paths and Perspectives",
@@ -117,19 +65,6 @@
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfsbckZEEbA1z7M9vSqZbAbG15DOiqA0WE4W2ezyjdSXsYXOA/viewform?usp=header"
     },
     {
-        "event_id": "14934",
-        "category": "Training Course",
-        "title": "Learning by Bussing 2.0: from Denmark to Czechia",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/learning-by-bussing-2-0-from-denmark-to-czechia.14934/",
-        "summary": "Want to travel & learn? Join the Erasmus+ road trip Learning by Bussing (Sep 7–25) from Denmark to Prague! Run workshops, visit NGOs & meet new friends.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "7-25 September 2026",
-        "location": "Denmark",
-        "deadline": "3 August 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10944/Bus%20Trip%20Info%20Pack.pdf-1.pdf",
-        "application_form": "https://forms.gle/nRV7fdHfse2efnzu9"
-    },
-    {
         "event_id": "15021",
         "category": "Training Course",
         "title": "TOSCA Volunteering – Training and Support for Organisations in the European Solidarity Corps",
@@ -141,6 +76,19 @@
         "deadline": "3 August 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/tosca-cz-2026?source_entity_type=group&source_entity_id=1014"
+    },
+    {
+        "event_id": "14934",
+        "category": "Training Course",
+        "title": "Learning by Bussing 2.0: from Denmark to Czechia",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/learning-by-bussing-2-0-from-denmark-to-czechia.14934/",
+        "summary": "Want to travel & learn? Join the Erasmus+ road trip Learning by Bussing (Sep 7–25) from Denmark to Prague! Run workshops, visit NGOs & meet new friends.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "7-25 September 2026",
+        "location": "Denmark",
+        "deadline": "3 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10944/Bus%20Trip%20Info%20Pack.pdf-1.pdf",
+        "application_form": "https://forms.gle/nRV7fdHfse2efnzu9"
     },
     {
         "event_id": "14954",
@@ -260,17 +208,17 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "15033",
+        "event_id": "15018",
         "category": "Seminar",
-        "title": "Play to Learn: Creating Educational Games for Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
-        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
+        "title": "Ask Better, Teach Better: Question‑driven AI & advocacy in youth work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ask-better-teach-better-question-driven-ai-advocacy-in-youth-work.15018/",
+        "summary": "A hands-on online workshop for youth workers to design better questions – for their groups and for AI. Using empathy maps, fishbone and “How might we…?” prompts, participants turn real needs into meaningful learning and concrete actions.",
         "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "17 September 2026",
+        "date": "5 September 2026",
         "location": "Zoom, Greece",
         "deadline": "31 August 2026",
         "infopack": null,
-        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
+        "application_form": "https://forms.gle/fVsCmDwp5UHM4cFR9"
     },
     {
         "event_id": "15032",
@@ -284,6 +232,45 @@
         "deadline": "31 August 2026",
         "infopack": null,
         "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
+    },
+    {
+        "event_id": "15026",
+        "category": "E-learning",
+        "title": "STEAM in Youth Work: Creative projects for young people",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/steam-in-youth-work-creative-projects-for-young-people.15026/",
+        "summary": "An introductory online workshop for youth workers to use STEAM (Science, Technology, Engineering, Arts, Maths) in non‑formal education. Participants design simple, low‑threshold STEAM activities that foster creativity, teamwork and critical thinking.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "10 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/aHsAu8fyDnLMqRZv6"
+    },
+    {
+        "event_id": "15031",
+        "category": "E-learning",
+        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
+        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "8 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
+    },
+    {
+        "event_id": "15033",
+        "category": "Seminar",
+        "title": "Play to Learn: Creating Educational Games for Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
+        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "17 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
     },
     {
         "event_id": "15013",
