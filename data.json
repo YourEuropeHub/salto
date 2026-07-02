@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15050",
-        "category": "Training Course",
-        "title": "Play it Forward",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-it-forward.15050/",
-        "summary": "Play It Forward is a 12-day Training Course inviting youth workers, educators and social professionals to explore the Theatre of the Oppressed — an interactive and transformative methodology that combines theatre with social change.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "14-25 September 2026",
-        "location": "Großkayna, Germany",
-        "deadline": "31 July 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScWBaPZ5WsT0a1cD60PW5fSaXi-D_v8yuCawMoY9a1ezb8x2w/viewform?usp=header"
-    },
-    {
         "event_id": "15011",
         "category": "Study Visit",
         "title": "EU Paths and Perspectives",
@@ -195,58 +182,6 @@
         "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
-        "event_id": "15033",
-        "category": "Seminar",
-        "title": "Play to Learn: Creating Educational Games for Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
-        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "17 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
-    },
-    {
-        "event_id": "15032",
-        "category": "E-learning",
-        "title": "Outdoor Paths: Designing Experiential Activities for Young People",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/outdoor-paths-designing-experiential-activities-for-young-people.15032/",
-        "summary": "An online workshop for youth workers to design safe, inclusive outdoor learning journeys. Using visual “island–storm–harbour” maps, participants turn real group needs into structured outdoor games, reflection walks and community‑based challenges.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "15 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
-    },
-    {
-        "event_id": "15031",
-        "category": "E-learning",
-        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
-        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "8 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
-    },
-    {
-        "event_id": "15026",
-        "category": "E-learning",
-        "title": "STEAM in Youth Work: Creative projects for young people",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/steam-in-youth-work-creative-projects-for-young-people.15026/",
-        "summary": "An introductory online workshop for youth workers to use STEAM (Science, Technology, Engineering, Arts, Maths) in non‑formal education. Participants design simple, low‑threshold STEAM activities that foster creativity, teamwork and critical thinking.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "10 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/aHsAu8fyDnLMqRZv6"
-    },
-    {
         "event_id": "15018",
         "category": "Seminar",
         "title": "Ask Better, Teach Better: Question‑driven AI & advocacy in youth work",
@@ -271,6 +206,58 @@
         "deadline": "31 August 2026",
         "infopack": null,
         "application_form": "https://forms.gle/LN6Ttp1wyu6GBdtw6"
+    },
+    {
+        "event_id": "15026",
+        "category": "E-learning",
+        "title": "STEAM in Youth Work: Creative projects for young people",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/steam-in-youth-work-creative-projects-for-young-people.15026/",
+        "summary": "An introductory online workshop for youth workers to use STEAM (Science, Technology, Engineering, Arts, Maths) in non‑formal education. Participants design simple, low‑threshold STEAM activities that foster creativity, teamwork and critical thinking.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "10 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/aHsAu8fyDnLMqRZv6"
+    },
+    {
+        "event_id": "15033",
+        "category": "Seminar",
+        "title": "Play to Learn: Creating Educational Games for Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
+        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "17 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
+    },
+    {
+        "event_id": "15031",
+        "category": "E-learning",
+        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
+        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "8 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
+    },
+    {
+        "event_id": "15032",
+        "category": "E-learning",
+        "title": "Outdoor Paths: Designing Experiential Activities for Young People",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/outdoor-paths-designing-experiential-activities-for-young-people.15032/",
+        "summary": "An online workshop for youth workers to design safe, inclusive outdoor learning journeys. Using visual “island–storm–harbour” maps, participants turn real group needs into structured outdoor games, reflection walks and community‑based challenges.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "15 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
     },
     {
         "event_id": "15013",
@@ -338,19 +325,6 @@
         "application_form": "https://tcanetplatform.com/form/municipalities4democracy-applica?source_entity_type=group&source_entity_id=919#no-back"
     },
     {
-        "event_id": "15027",
-        "category": "Seminar",
-        "title": "“All in” - Seminar for youth workers on strengthening  democratic values and attitudes in local communities",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/all-in-seminar-for-youth-workers-on-strengthening-democratic-values-and-attitudes-in-local-communities.15027/",
-        "summary": "\"All In\" brings together youth work practitioners to explore the role of youth work in times of polarisation and growing challenges to democracy. Participants will exchange practices, strengthen democratic approaches, and develop concrete local actions",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "19-24 October 2026",
-        "location": "Mostar, Bosnia and Herzegovina",
-        "deadline": "5 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10966/Seminar%20All%20In%20-%20Call%20for%20participants.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10969/Seminar%20All%20In%20-%20Programme%20of%20activities.pdf",
-        "application_form": "https://tcanetplatform.com/form/application-form-for-all-in-semi?source_entity_type=group&source_entity_id=1018#no-back"
-    },
-    {
         "event_id": "14905",
         "category": "Seminar",
         "title": "Why municipal youth participation?",
@@ -375,6 +349,19 @@
         "deadline": "6 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10932/%5B03%5D%20Mentoring%20Competence%20Framework%20%5BMuC%20Infosheet%5D.pdf",
         "application_form": "https://tcanetplatform.com/form/focus-mentoring-for-organisation?source_entity_type=group&source_entity_id=995#no-back"
+    },
+    {
+        "event_id": "15027",
+        "category": "Seminar",
+        "title": "“All in” - Seminar for youth workers on strengthening  democratic values and attitudes in local communities",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/all-in-seminar-for-youth-workers-on-strengthening-democratic-values-and-attitudes-in-local-communities.15027/",
+        "summary": "\"All In\" brings together youth work practitioners to explore the role of youth work in times of polarisation and growing challenges to democracy. Participants will exchange practices, strengthen democratic approaches, and develop concrete local actions",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "19-24 October 2026",
+        "location": "Mostar, Bosnia and Herzegovina",
+        "deadline": "6 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10966/Seminar%20All%20In%20-%20Call%20for%20participants.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10969/Seminar%20All%20In%20-%20Programme%20of%20activities.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-form-for-all-in-semi?source_entity_type=group&source_entity_id=1018#no-back"
     },
     {
         "event_id": "15008",
