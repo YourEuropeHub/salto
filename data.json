@@ -1,5 +1,18 @@
 [
     {
+        "event_id": "15078",
+        "category": "Training Course",
+        "title": "Embodied Habits",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/embodied-habits.15078/",
+        "summary": "This 9-day residential training course brings together 31 youth workers from Croatia, Greece, Italy, Latvia, Poland, Slovakia, Slovenia, and Spain.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "28 October -  5 November 2026",
+        "location": "Atputas parks Laumas, Latvia",
+        "deadline": "5 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10985/Call%20for%20paxes_with_logo.png",
+        "application_form": "https://embodied-habits.carrd.co/"
+    },
+    {
         "event_id": "14954",
         "category": "Partnership-building Activity",
         "title": "Volunteering Teams as a Tool to support Inclusion",
@@ -78,6 +91,19 @@
         "application_form": "https://tcanetplatform.com/form/application-form-pba-youth-and-c?source_entity_type=group&source_entity_id=942#no-back"
     },
     {
+        "event_id": "15075",
+        "category": "Partnership-building Activity",
+        "title": "Partnership Building Activity in the field of Mobility of Youth Workers",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-in-the-field-of-mobility-of-youth-workers.15075/",
+        "summary": "This Partnership Building Activity (PBA) is specifically designed to unlock the potential of KA153-YOU projects. The activity provides a dynamic space for youth workers and project managers to connect, share realities and develop concrete project ideas.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "21-26 September 2026",
+        "location": "İstanbul , Türkiye",
+        "deadline": "16 August 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-in?source_entity_type=group&source_entity_id=1038#no-back"
+    },
+    {
         "event_id": "14932",
         "category": "Training Course",
         "title": "Participation, Engagement and Impact Lab for Multicultural Youth",
@@ -117,17 +143,43 @@
         "application_form": "https://tcanetplatform.com/form/application-form-working-with-qu?source_entity_type=group&source_entity_id=930#no-back"
     },
     {
-        "event_id": "14984",
-        "category": "Training Course",
-        "title": "Project Lab: Tandem",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/project-lab-tandem.14984/",
-        "summary": "An application writing workshop in Vilnius, framed to prepare a quality application within E+ youth programmes.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "2-6 November 2026",
-        "location": "Lithuania",
+        "event_id": "15032",
+        "category": "E-learning",
+        "title": "Outdoor Paths: Designing Experiential Activities for Young People",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/outdoor-paths-designing-experiential-activities-for-young-people.15032/",
+        "summary": "An online workshop for youth workers to design safe, inclusive outdoor learning journeys. Using visual “island–storm–harbour” maps, participants turn real group needs into structured outdoor games, reflection walks and community‑based challenges.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "15 September 2026",
+        "location": "Zoom, Greece",
         "deadline": "31 August 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10933/Project%20LAB_%20Tandem%20%28trainers%20workspace%20-%20timetable,%20script,%20notes%29%20-%20program%20time-line_%20flow.pdf",
-        "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
+        "infopack": null,
+        "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
+    },
+    {
+        "event_id": "15031",
+        "category": "E-learning",
+        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
+        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "8 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
+    },
+    {
+        "event_id": "15033",
+        "category": "Seminar",
+        "title": "Play to Learn: Creating Educational Games for Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
+        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "17 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
     },
     {
         "event_id": "15026",
@@ -156,19 +208,6 @@
         "application_form": "https://forms.gle/LN6Ttp1wyu6GBdtw6"
     },
     {
-        "event_id": "15033",
-        "category": "Seminar",
-        "title": "Play to Learn: Creating Educational Games for Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-to-learn-creating-educational-games-for-youth-work.15033/",
-        "summary": "A creative online workshop for youth workers who want to turn real issues from their practice into simple learning games using scarves, balls and easy, nature‑found materials. Each new game becomes a new question to explore with young people.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "17 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
-    },
-    {
         "event_id": "15018",
         "category": "Seminar",
         "title": "Ask Better, Teach Better: Question‑driven AI & advocacy in youth work",
@@ -180,6 +219,19 @@
         "deadline": "31 August 2026",
         "infopack": null,
         "application_form": "https://forms.gle/fVsCmDwp5UHM4cFR9"
+    },
+    {
+        "event_id": "14984",
+        "category": "Training Course",
+        "title": "Project Lab: Tandem",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/project-lab-tandem.14984/",
+        "summary": "An application writing workshop in Vilnius, framed to prepare a quality application within E+ youth programmes.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "2-6 November 2026",
+        "location": "Lithuania",
+        "deadline": "31 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10933/Project%20LAB_%20Tandem%20%28trainers%20workspace%20-%20timetable,%20script,%20notes%29%20-%20program%20time-line_%20flow.pdf",
+        "application_form": "https://tcanetplatform.com/form/project-lab-tandem?source_entity_type=group&source_entity_id=994#no-back"
     },
     {
         "event_id": "15065",
@@ -195,30 +247,17 @@
         "application_form": "https://forms.gle/QqwahhF22hMtkqadA"
     },
     {
-        "event_id": "15031",
-        "category": "E-learning",
-        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
-        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "8 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
+        "event_id": "14947",
+        "category": "Training Course",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "1 September 2026",
         "infopack": null,
-        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
-    },
-    {
-        "event_id": "15032",
-        "category": "E-learning",
-        "title": "Outdoor Paths: Designing Experiential Activities for Young People",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/outdoor-paths-designing-experiential-activities-for-young-people.15032/",
-        "summary": "An online workshop for youth workers to design safe, inclusive outdoor learning journeys. Using visual “island–storm–harbour” maps, participants turn real group needs into structured outdoor games, reflection walks and community‑based challenges.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "15 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "15013",
@@ -232,19 +271,6 @@
         "deadline": "1 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10952/GS4F%202.0%20infopack.pdf",
         "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
-    },
-    {
-        "event_id": "14947",
-        "category": "Training Course",
-        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
-        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
-        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Slovak Republic",
-        "deadline": "1 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "14998",
