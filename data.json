@@ -286,19 +286,6 @@
         "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
     },
     {
-        "event_id": "14947",
-        "category": "Training Course",
-        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
-        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
-        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "5-9 October 2026",
-        "location": "Slovak Republic",
-        "deadline": "1 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
-    },
-    {
         "event_id": "14998",
         "category": "E-learning",
         "title": "Engaging Communities Through Sustainable Sport Communication",
@@ -310,6 +297,19 @@
         "deadline": "1 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
         "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
+    },
+    {
+        "event_id": "14947",
+        "category": "Training Course",
+        "title": "Youth Exchanges for ALL - Slovakia OCT 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-exchanges-for-all-slovakia-oct-2026.14947/",
+        "summary": "Did you know you can get funding for Youth Exchanges with young people from disadvantaged backgrounds? Discover in this beginner's course how you can organise inclusive Youth Exchanges in the Erasmus+ youth programme.",
+        "participants_from": "Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "5-9 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "1 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
         "event_id": "14817",
@@ -330,7 +330,7 @@
         "title": "Partnership Building Activity: Young Women in Rural Communities - Inclusive Youth Work and Access to Opportunities",
         "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-young-women-in-rural-communities-inclusive-youth-work-and-access-to-opportunities.15125/",
         "summary": "Are you a youth worker supporting young women who face barriers to participation, information and access to opportunities?",
-        "participants_from": "Erasmus+ Youth Programme countries",
+        "participants_from": "Erasmus+ Youth Programme countries, Southern Mediterranean countries",
         "date": "23-27 November 2026",
         "location": "Portugal",
         "deadline": "4 September 2026",
@@ -364,19 +364,6 @@
         "application_form": "https://tcanetplatform.com/form/focus-mentoring-for-organisation?source_entity_type=group&source_entity_id=995#no-back"
     },
     {
-        "event_id": "15008",
-        "category": "Training Course",
-        "title": "Volu.M.Entry - Basics and essentials for E.S.C projects management",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/volu-m-entry-basics-and-essentials-for-e-s-c-projects-management.15008/",
-        "summary": "If you just landed on the European Solidarity Corps (E.S.C) planet, this training is the compass you need to start your journey!",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "26 November -  3 December 2026",
-        "location": "Guillestre, France , France",
-        "deadline": "6 September 2026",
-        "infopack": null,
-        "application_form": "https://horspistes.typeform.com/to/HDpj7zgK"
-    },
-    {
         "event_id": "15027",
         "category": "Seminar",
         "title": "“All in” - Seminar for youth workers on strengthening  democratic values and attitudes in local communities",
@@ -388,6 +375,19 @@
         "deadline": "6 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10966/Seminar%20All%20In%20-%20Call%20for%20participants.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10969/Seminar%20All%20In%20-%20Programme%20of%20activities.pdf",
         "application_form": "https://tcanetplatform.com/form/application-form-for-all-in-semi?source_entity_type=group&source_entity_id=1018#no-back"
+    },
+    {
+        "event_id": "15008",
+        "category": "Training Course",
+        "title": "Volu.M.Entry - Basics and essentials for E.S.C projects management",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/volu-m-entry-basics-and-essentials-for-e-s-c-projects-management.15008/",
+        "summary": "If you just landed on the European Solidarity Corps (E.S.C) planet, this training is the compass you need to start your journey!",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "26 November -  3 December 2026",
+        "location": "Guillestre, France , France",
+        "deadline": "6 September 2026",
+        "infopack": null,
+        "application_form": "https://horspistes.typeform.com/to/HDpj7zgK"
     },
     {
         "event_id": "15059",
