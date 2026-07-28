@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "14224",
-        "category": "Training Course",
-        "title": "European Solidarity Corps: TOSCA – Training and support for organisations active in the European Solidarity Corps",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/european-solidarity-corps-tosca-training-and-support-for-organisations-active-in-the-european-solidarity-corps.14224/",
-        "summary": "The training activity aims to support and build up the capacities of organizations that actively participate\r\nin volunteering actions of the European Solidarity Corps, in order to ensure quality and impact in the\r\nrespective projects.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "16-20 November 2026",
-        "location": "Bonn, Germany",
-        "deadline": "26 August 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-tosca-germany-2?source_entity_type=group&source_entity_id=1059#no-back"
-    },
-    {
         "event_id": "14932",
         "category": "Training Course",
         "title": "Participation, Engagement and Impact Lab for Multicultural Youth",
@@ -39,19 +26,6 @@
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeNIPjqLT-FogbZoQcoyv1T6ZNeuzXj_WiVjbuBY57xvZOAmQ/viewform?usp=header"
     },
     {
-        "event_id": "14513",
-        "category": "Partnership-building Activity",
-        "title": "PBA Make the Move for Green Inclusion V",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pba-make-the-move-for-green-inclusion-v.14513/",
-        "summary": "PBA is organised to find good reliable partners for youth exchanges with a focus on inclusion and \"green\" and to understand the needs for a YE of good quality. For this time, youth workers and young people from same structures will come together.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "19-24 October 2026",
-        "location": "Novi Sad, Serbia",
-        "deadline": "29 August 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10682/PBA%202026%20Infopack%20call%20.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10683/2024_PBA_ShortVideo.mp4",
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15828/application/"
-    },
-    {
         "event_id": "15084",
         "category": "Training Course",
         "title": "EYE Opener",
@@ -63,6 +37,19 @@
         "deadline": "29 August 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/eye-opener-latvia?source_entity_type=group&source_entity_id=1048#no-back"
+    },
+    {
+        "event_id": "14513",
+        "category": "Partnership-building Activity",
+        "title": "PBA Make the Move for Green Inclusion V",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pba-make-the-move-for-green-inclusion-v.14513/",
+        "summary": "PBA is organised to find good reliable partners for youth exchanges with a focus on inclusion and \"green\" and to understand the needs for a YE of good quality. For this time, youth workers and young people from same structures will come together.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "19-24 October 2026",
+        "location": "Novi Sad, Serbia",
+        "deadline": "29 August 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10682/PBA%202026%20Infopack%20call%20.pdf, https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10683/2024_PBA_ShortVideo.mp4",
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15828/application/"
     },
     {
         "event_id": "14859",
@@ -89,6 +76,19 @@
         "deadline": "30 August 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/euromed-participation-lab?source_entity_type=group&source_entity_id=1076#no-back"
+    },
+    {
+        "event_id": "15031",
+        "category": "E-learning",
+        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
+        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "8 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
     },
     {
         "event_id": "15026",
@@ -169,32 +169,6 @@
         "application_form": "https://forms.gle/Yqn1CCXgdiL56BjX9"
     },
     {
-        "event_id": "15031",
-        "category": "E-learning",
-        "title": "Robotics in Youth Work: From Playful Missions to Real Skills",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/robotics-in-youth-work-from-playful-missions-to-real-skills.15031/",
-        "summary": "An online workshop using simple examples and mission‑based design, participants learn how to use robots to develop teamwork, problem‑solving and creativity with young people – even with limited equipment.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "8 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/xurvSfcZhVWk6UJUA"
-    },
-    {
-        "event_id": "15092",
-        "category": "Training Course",
-        "title": "ON/OFF – Online and Offline Tools in Youthwork 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/on-off-online-and-offline-tools-in-youthwork-2026.15092/",
-        "summary": "ON/OFF is a training course focused on digital tools, online safety, gamification, AI and digital youth work. Participants will gain practical skills, test tools and network with peers across Europe.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "7-11 October 2026",
-        "location": "Slovak Republic",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/on-off--2026?source_entity_type=group&source_entity_id=1056#no-back"
-    },
-    {
         "event_id": "15032",
         "category": "E-learning",
         "title": "Outdoor Paths: Designing Experiential Activities for Young People",
@@ -206,19 +180,6 @@
         "deadline": "31 August 2026",
         "infopack": null,
         "application_form": "https://forms.gle/fe9pmyJEzHhWMugA8"
-    },
-    {
-        "event_id": "15065",
-        "category": "Seminar",
-        "title": "VR/AR - From Questions to Worlds: Interactive Story + Analog Game + AI Video Events",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/vr-ar-from-questions-to-worlds-interactive-story-analog-game-ai-video-events.15065/",
-        "summary": "Turn real issues from their youth work into interactive stories and low‑tech games. Using branching narratives, analog play and short AI‑generated videos, participants design questions that open dialogue and action.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "24 September 2026",
-        "location": "Zoom, Greece",
-        "deadline": "31 August 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/QqwahhF22hMtkqadA"
     },
     {
         "event_id": "15033",
@@ -234,6 +195,19 @@
         "application_form": "https://forms.gle/ka4mLDYWKwX5A7Lj8"
     },
     {
+        "event_id": "15092",
+        "category": "Training Course",
+        "title": "ON/OFF – Online and Offline Tools in Youthwork 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/on-off-online-and-offline-tools-in-youthwork-2026.15092/",
+        "summary": "ON/OFF is a training course focused on digital tools, online safety, gamification, AI and digital youth work. Participants will gain practical skills, test tools and network with peers across Europe.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "7-11 October 2026",
+        "location": "Slovak Republic",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/on-off--2026?source_entity_type=group&source_entity_id=1056#no-back"
+    },
+    {
         "event_id": "15043",
         "category": "Seminar",
         "title": "Messy STEAM & Emotions: Sensory Play for Regulation and Discovery",
@@ -245,6 +219,19 @@
         "deadline": "31 August 2026",
         "infopack": null,
         "application_form": "https://forms.gle/LN6Ttp1wyu6GBdtw6"
+    },
+    {
+        "event_id": "15065",
+        "category": "Seminar",
+        "title": "VR/AR - From Questions to Worlds: Interactive Story + Analog Game + AI Video Events",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/vr-ar-from-questions-to-worlds-interactive-story-analog-game-ai-video-events.15065/",
+        "summary": "Turn real issues from their youth work into interactive stories and low‑tech games. Using branching narratives, analog play and short AI‑generated videos, participants design questions that open dialogue and action.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "24 September 2026",
+        "location": "Zoom, Greece",
+        "deadline": "31 August 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/QqwahhF22hMtkqadA"
     },
     {
         "event_id": "14947",
@@ -260,19 +247,6 @@
         "application_form": "https://tcanetplatform.com/form/youth-exchanges-for-all-slovakia?source_entity_type=group&source_entity_id=981#no-back"
     },
     {
-        "event_id": "15013",
-        "category": "Training Course",
-        "title": "Green Skills 4 Future",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-skills-4-future.15013/",
-        "summary": "Green Skills 4 Future is a two-stage international training course empowering youth workers with practical green skills, sustainability knowledge, and tools to inspire young people to actively participate in the green transition.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Ukraine, Western Balkan countries",
-        "date": "15-22 October 2026",
-        "location": "Sliven, Bulgaria",
-        "deadline": "1 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10952/GS4F%202.0%20infopack.pdf",
-        "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
-    },
-    {
         "event_id": "14998",
         "category": "E-learning",
         "title": "Engaging Communities Through Sustainable Sport Communication",
@@ -284,6 +258,19 @@
         "deadline": "1 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10943/G.R.E.E.N.%20Sport%202030%20%285%29.pdf",
         "application_form": "https://us06web.zoom.us/meeting/register/AzAEiYdUTAa04j5ZR6RJNQ"
+    },
+    {
+        "event_id": "15013",
+        "category": "Training Course",
+        "title": "Green Skills 4 Future",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-skills-4-future.15013/",
+        "summary": "Green Skills 4 Future is a two-stage international training course empowering youth workers with practical green skills, sustainability knowledge, and tools to inspire young people to actively participate in the green transition.",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Ukraine, Western Balkan countries",
+        "date": "15-22 October 2026",
+        "location": "Sliven, Bulgaria",
+        "deadline": "1 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10952/GS4F%202.0%20infopack.pdf",
+        "application_form": "https://forms.gle/JDoAkcJQusJXS9RD8"
     },
     {
         "event_id": "14817",
@@ -323,6 +310,19 @@
         "deadline": "4 September 2026",
         "infopack": null,
         "application_form": "https://forms.gle/U5iCTfHneMyD5GQG9"
+    },
+    {
+        "event_id": "15160",
+        "category": "Training Course",
+        "title": "Art-Mind",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/art-mind.15160/",
+        "summary": "ART-MIND: The Mindful Canvas (18-26 Oct 2026) in Antalya, Türkiye, is an Erasmus+ training for youth workers. It equips participants with art-based, non-verbal methods to tackle the youth mental health crisis and build safe spaces.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "18-26 October 2026",
+        "location": "Antalya, Türkiye",
+        "deadline": "4 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11017/Art-Mind,%20INFO%20PACK.pdf",
+        "application_form": "http://forms.gle/AJ3pCasMtiX4PQa88"
     },
     {
         "event_id": "14905",
@@ -648,6 +648,19 @@
         "deadline": "5 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10965/Training%20Course%20Dive%20into%20Youth%20Participation%20Albania%20-%20Call%20for%20participants%20and%20schedule.pdf",
         "application_form": "https://tcanetplatform.com/form/dive-into-youth-participation?source_entity_type=group&source_entity_id=1020#no-back"
+    },
+    {
+        "event_id": "15162",
+        "category": "Training Course",
+        "title": "Training of Trainers on Being Civically Engaged",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/training-of-trainers-on-being-civically-engaged.15162/",
+        "summary": "Join the certified and ETS-aligned course to strengthen trainers' competencies in being civically engaged, focusing on the civic role of the trainer, integrating values and beliefs, critical thinking, and democracy and human rights principles.",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden",
+        "date": "1-7 February 2027",
+        "location": "Coma-Ruga, Catalonia, Spain",
+        "deadline": "15 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11018/Programme_ToT_Being%20Civically%20Engaged.pdf",
+        "application_form": "https://forms.gle/MJ3dqfnyeJdKwZfS6 "
     },
     {
         "event_id": "11591",
