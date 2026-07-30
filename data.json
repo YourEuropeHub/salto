@@ -403,6 +403,19 @@
         "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-trai?source_entity_type=group&source_entity_id=949#no-back"
     },
     {
+        "event_id": "15165",
+        "category": "E-learning",
+        "title": "PLAY IS HUMAN RIGHT – The neuroscience of joy and  the NVC practice of connection",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/play-is-human-right-the-neuroscience-of-joy-and-the-nvc-practice-of-connection.15165/",
+        "summary": "Inspired by Jaak Panksepp’s affective neuroscience and Nonviolent Communication (NVC), this webinar explores how the PLAY system supports connection, resilience, creativity, and emotional wellbeing.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "24 September 2026",
+        "location": "online, Poland",
+        "deadline": "7 September 2026",
+        "infopack": null,
+        "application_form": "https://www.fundacjamudita.org/en/play-is-human-right-the-neuroscience-of-joy-and-the-nvc-practice-of-connection-with-paulina-orbitowska-fernandez/"
+    },
+    {
         "event_id": "15127",
         "category": "E-learning",
         "title": "ID Talks: Social Sport",
@@ -455,19 +468,6 @@
         "application_form": "https://tcanetplatform.com/form/application-form-pba-quality-of?source_entity_type=group&source_entity_id=1031#no-back"
     },
     {
-        "event_id": "15083",
-        "category": "Seminar",
-        "title": "WE NEET YOU: Seminar on Pathways for NEET Youth",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/we-neet-you-seminar-on-pathways-for-neet-youth.15083/",
-        "summary": "This seminar aims to strengthen the competences of youth workers by exploring the challenges faced by NEET youth, sharing good practices and discussing practical approaches to outreach, engagement and empowerment.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "20-24 October 2026",
-        "location": "Ankara, Türkiye",
-        "deadline": "13 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/we-neet-you-seminar-on-pathways?source_entity_type=group&source_entity_id=1042#no-back"
-    },
-    {
         "event_id": "15104",
         "category": "Conference – Symposium - Forum",
         "title": "International European Solidarity Corps Quality Label Experts meeting 2026",
@@ -479,6 +479,19 @@
         "deadline": "13 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/international-european-solidarit?source_entity_type=group&source_entity_id=1060#no-back"
+    },
+    {
+        "event_id": "15083",
+        "category": "Seminar",
+        "title": "WE NEET YOU: Seminar on Pathways for NEET Youth",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/we-neet-you-seminar-on-pathways-for-neet-youth.15083/",
+        "summary": "This seminar aims to strengthen the competences of youth workers by exploring the challenges faced by NEET youth, sharing good practices and discussing practical approaches to outreach, engagement and empowerment.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "20-24 October 2026",
+        "location": "Ankara, Türkiye",
+        "deadline": "13 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/we-neet-you-seminar-on-pathways?source_entity_type=group&source_entity_id=1042#no-back"
     },
     {
         "event_id": "15124",
@@ -546,19 +559,6 @@
         "application_form": "https://forms.gle/3tGcZNfCATZSsBuc6"
     },
     {
-        "event_id": "15164",
-        "category": "Seminar",
-        "title": "Bringing Agile Learning into Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
-        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "21 September 2026",
-        "location": "online, Czech Republic",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
-    },
-    {
         "event_id": "15102",
         "category": "Seminar",
         "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
@@ -570,6 +570,19 @@
         "deadline": "20 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
+    },
+    {
+        "event_id": "15164",
+        "category": "Seminar",
+        "title": "Bringing Agile Learning into Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
+        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "21 September 2026",
+        "location": "online, Czech Republic",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
     },
     {
         "event_id": "14942",
