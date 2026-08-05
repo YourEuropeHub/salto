@@ -130,6 +130,32 @@
         "application_form": "https://horspistes.typeform.com/to/HDpj7zgK"
     },
     {
+        "event_id": "15183",
+        "category": "Study Visit",
+        "title": "Study Visit on Inclusive Participation in Democratic Life",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/study-visit-on-inclusive-participation-in-democratic-life.15183/",
+        "summary": "SALTO Participation & Information and SALTO Inclusion & Diversity invite youth workers and trainers to apply for a 3.5-day international study visit focusing on participation of young people with fewer opportunities in democratic life.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "16-20 November 2026",
+        "location": "Antwerp, Venue TBC, Belgium - FL",
+        "deadline": "6 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11027/Spring%202026%20webinar%20series_article%20summaries.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-form-study-visit?source_entity_type=group&source_entity_id=1086#no-back"
+    },
+    {
+        "event_id": "15179",
+        "category": "Study Visit",
+        "title": "From RURAL to PLURAL: Building Rural Youth Ecosystems through the European Youth Village",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-rural-to-plural-building-rural-youth-ecosystems-through-the-european-youth-village.15179/",
+        "summary": "The Study Visit not to miss if you work in rural youth organisations or National Agencies. Explore the European Youth Village model, strengthen rural youth ecosystems, and help inspire the 2027 European Rural Youth Summit.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "12-16 October 2026",
+        "location": "Sâncraiu, Cluj County, Romania",
+        "deadline": "6 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-for-erys-2026?source_entity_type=group&source_entity_id=1100#no-back"
+    },
+    {
         "event_id": "15177",
         "category": "Training Course",
         "title": "Mentoring for Impact: Supporting Volunteers Beyond the Project",
@@ -156,19 +182,6 @@
         "application_form": "https://forms.gle/u3WNAirRjM5u3TQZ8"
     },
     {
-        "event_id": "14930",
-        "category": "Training Course",
-        "title": "Mental Health in Youth Work - Training Course",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mental-health-in-youth-work-training-course.14930/",
-        "summary": "The training provides a foundation for understanding how youth workers can strengthen and support young people’s mental health, wellbeing, and resilience;  aimed for youth workers who work directly with young people in youth work settings.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "19-23 October 2026",
-        "location": "Finland",
-        "deadline": "7 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-trai?source_entity_type=group&source_entity_id=949#no-back"
-    },
-    {
         "event_id": "15165",
         "category": "E-learning",
         "title": "PLAY IS HUMAN RIGHT – The neuroscience of joy and  the NVC practice of connection",
@@ -180,6 +193,19 @@
         "deadline": "7 September 2026",
         "infopack": null,
         "application_form": "https://www.fundacjamudita.org/en/play-is-human-right-the-neuroscience-of-joy-and-the-nvc-practice-of-connection-with-paulina-orbitowska-fernandez/"
+    },
+    {
+        "event_id": "14930",
+        "category": "Training Course",
+        "title": "Mental Health in Youth Work - Training Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mental-health-in-youth-work-training-course.14930/",
+        "summary": "The training provides a foundation for understanding how youth workers can strengthen and support young people’s mental health, wellbeing, and resilience;  aimed for youth workers who work directly with young people in youth work settings.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "19-23 October 2026",
+        "location": "Finland",
+        "deadline": "7 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-trai?source_entity_type=group&source_entity_id=949#no-back"
     },
     {
         "event_id": "15171",
@@ -260,19 +286,6 @@
         "application_form": "https://tcanetplatform.com/form/application-form-pba-quality-of?source_entity_type=group&source_entity_id=1031#no-back"
     },
     {
-        "event_id": "15104",
-        "category": "Conference – Symposium - Forum",
-        "title": "International European Solidarity Corps Quality Label Experts meeting 2026",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-european-solidarity-corps-quality-label-experts-meeting-2026.15104/",
-        "summary": "The International European Solidarity Corps Quality Label Experts Meeting is a biennial meeting of Quality Label experts and officers from National Agencies and SALTO Resource Centres.",
-        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "16-20 November 2026",
-        "location": "Budapest, Hungary",
-        "deadline": "13 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/international-european-solidarit?source_entity_type=group&source_entity_id=1060#no-back"
-    },
-    {
         "event_id": "15083",
         "category": "Seminar",
         "title": "WE NEET YOU: Seminar on Pathways for NEET Youth",
@@ -284,6 +297,19 @@
         "deadline": "13 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/we-neet-you-seminar-on-pathways?source_entity_type=group&source_entity_id=1042#no-back"
+    },
+    {
+        "event_id": "15104",
+        "category": "Conference – Symposium - Forum",
+        "title": "International European Solidarity Corps Quality Label Experts meeting 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-european-solidarity-corps-quality-label-experts-meeting-2026.15104/",
+        "summary": "The International European Solidarity Corps Quality Label Experts Meeting is a biennial meeting of Quality Label experts and officers from National Agencies and SALTO Resource Centres.",
+        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "16-20 November 2026",
+        "location": "Budapest, Hungary",
+        "deadline": "13 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/international-european-solidarit?source_entity_type=group&source_entity_id=1060#no-back"
     },
     {
         "event_id": "15124",
@@ -351,6 +377,19 @@
         "application_form": "https://tcanetplatform.com/form/application-form-for-internation?source_entity_type=group&source_entity_id=1075#no-back"
     },
     {
+        "event_id": "15102",
+        "category": "Seminar",
+        "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sparking-change-enhancing-community-impact-in-european-solidarity-corps-activities.15102/",
+        "summary": "Are you involved in volunteering and solidarity projects?  Or are you interested in community impact? If you want to dive deeper into community impact join our seminar to discover how to make a tangible difference through your activities.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "23-27 November 2026",
+        "location": "Italy",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
+    },
+    {
         "event_id": "15167",
         "category": "Conference – Symposium - Forum",
         "title": "Evidence-based approach in Erasmus+ and European Solidarity Corps: Innovations in Research, Research on Innovations",
@@ -375,19 +414,6 @@
         "deadline": "20 September 2026",
         "infopack": null,
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
-    },
-    {
-        "event_id": "15102",
-        "category": "Seminar",
-        "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sparking-change-enhancing-community-impact-in-european-solidarity-corps-activities.15102/",
-        "summary": "Are you involved in volunteering and solidarity projects?  Or are you interested in community impact? If you want to dive deeper into community impact join our seminar to discover how to make a tangible difference through your activities.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "23-27 November 2026",
-        "location": "Italy",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
     },
     {
         "event_id": "14367",
