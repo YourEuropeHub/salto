@@ -1,44 +1,5 @@
 [
     {
-        "event_id": "15171",
-        "category": "Training Course",
-        "title": "Dealing with Conflict in Youth Work - II edition Italy",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/dealing-with-conflict-in-youth-work-ii-edition-italy.15171/",
-        "summary": "Do you want to approach conflict as a natural and constructive part of your work? Join this training to explore how you can transform conflicts into opportunities for growth.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "2-6 November 2026",
-        "location": "Friuli Venezia Giulia, Italy",
-        "deadline": "8 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/dealing-with-conflict-ii-ed?source_entity_type=group&source_entity_id=1093#no-back"
-    },
-    {
-        "event_id": "15127",
-        "category": "E-learning",
-        "title": "ID Talks: Social Sport",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/id-talks-social-sport.15127/",
-        "summary": "The ID Talks are a series of 5 stand-alone online workshops on inclusion & diversity-related topics, with inspiring guest speakers, thought-provoking insights, small-group discussions and Q&A, not lasting more than 90 minutes each.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "9 September -  4 November 2026",
-        "location": "Online (Zoom) , Belgium - FL",
-        "deadline": "8 September 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSdOP5hDwo9qauXRwwv2O2xpLyMnOFe6VFDFQRKUDBtQfS6_CQ/viewform"
-    },
-    {
-        "event_id": "15178",
-        "category": "Training Course",
-        "title": "Welcome in ESC",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/welcome-in-esc.15178/",
-        "summary": "A training course for South-Med organisations interested in joining the European Solidarity Corps programme. It will gather organisations interested to know more about ESC. This training course consists of 2 full days (17-18 september)",
-        "participants_from": "Southern Mediterranean countries",
-        "date": "17-18 September 2026",
-        "location": "ONLINE, France",
-        "deadline": "8 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/welcome-in-esc-call-for-particip?source_entity_type=group&source_entity_id=1096#no-back"
-    },
-    {
         "event_id": "15109",
         "category": "Training Course",
         "title": "D.C.O.D.E. – Decoding Dopamine: A Strategic Map for Youth Workers",
@@ -130,19 +91,6 @@
         "application_form": "https://tcanetplatform.com/form/volunteering-forum-istanbul-8-11?source_entity_type=group&source_entity_id=1102#no-back"
     },
     {
-        "event_id": "15153",
-        "category": "Training Course",
-        "title": "Storytelling: discovering the inner superhero",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/storytelling-discovering-the-inner-superhero.15153/",
-        "summary": "Youth Workers Exchange - Training Course to promote learning, skills and competence development and recognition through youth work, volunteering, and non-formal learning, focusing on storytelling methodologies.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "4-10 November 2026",
-        "location": "Trento, Italy",
-        "deadline": "15 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11014/YWE%20Storytelling%20discovering%20the%20inner%20superhero_Infopack.pdf",
-        "application_form": "https://docs.google.com/forms/d/1TO-Yk1wnEM96PgB0ZqWxsECGVqUMzk8O_sTt254RZUo/preview"
-    },
-    {
         "event_id": "15147",
         "category": "Training Course",
         "title": "From Uncertainty to Action",
@@ -154,6 +102,19 @@
         "deadline": "15 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11013/from%20uncertainty%20to%20action.pptx",
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScqy67ypQrthiUJpOHF0GNd3ywyF78w7m1j-ucSb_a9D_MjXQ/viewform?usp=sharing&ouid=113494798640326246624"
+    },
+    {
+        "event_id": "15153",
+        "category": "Training Course",
+        "title": "Storytelling: discovering the inner superhero",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/storytelling-discovering-the-inner-superhero.15153/",
+        "summary": "Youth Workers Exchange - Training Course to promote learning, skills and competence development and recognition through youth work, volunteering, and non-formal learning, focusing on storytelling methodologies.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "4-10 November 2026",
+        "location": "Trento, Italy",
+        "deadline": "15 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11014/YWE%20Storytelling%20discovering%20the%20inner%20superhero_Infopack.pdf",
+        "application_form": "https://docs.google.com/forms/d/1TO-Yk1wnEM96PgB0ZqWxsECGVqUMzk8O_sTt254RZUo/preview"
     },
     {
         "event_id": "15012",
@@ -265,7 +226,7 @@
         "title": "MindBoost Academy: Mental Health & Youth Work",
         "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mindboost-academy-mental-health-youth-work.15180/",
         "summary": "MindBoost Academy: Mental Health & Youth Work is an Erasmus+ training for youth workers from the Netherlands and Serbia to co-create a practical mental health toolkit while developing skills in resilience, peer support and non-formal education.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "participants_from": "Netherlands, Serbia",
         "date": "13-18 January 2027",
         "location": "Breda, Netherlands",
         "deadline": "2 October 2026",
