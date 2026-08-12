@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15109",
-        "category": "Training Course",
-        "title": "D.C.O.D.E. – Decoding Dopamine: A Strategic Map for Youth Workers",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/d-c-o-d-e-decoding-dopamine-a-strategic-map-for-youth-workers.15109/",
-        "summary": "D.C.O.D.E. is an Erasmus+ Training Course in Ighiu, Romania, for 25 youth workers from five countries. It explores dopamine, attention and digital habits, offering practical non-formal tools for healthier technology use.",
-        "participants_from": "Greece, Portugal, Romania, Spain, Türkiye",
-        "date": "24 October -  2 November 2026",
-        "location": "Casa Negrea, Ighiu, Alba, Romania",
-        "deadline": "10 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10998/D.C.O.D.E-infopack.pdf",
-        "application_form": "http://forms.gle/MyvJugGgNTV7Ttvd8"
-    },
-    {
         "event_id": "15040",
         "category": "Training Course",
         "title": "Harry Totter and the Facilitator's Stone",
@@ -37,6 +24,19 @@
         "deadline": "11 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/application-form-pba-quality-of?source_entity_type=group&source_entity_id=1031#no-back"
+    },
+    {
+        "event_id": "15203",
+        "category": "Seminar",
+        "title": "Growing Youth Work in Eastern Europe and Caucasus",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/growing-youth-work-in-eastern-europe-and-caucasus.15203/",
+        "summary": "A seminar exploring youth work in Eastern Europe and the Caucasus, offering space to exchange experiences, learn from one another, and explore how European cooperation can support youth work development across the region.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "30 November -  4 December 2026",
+        "location": "Tbilisi, Georgia",
+        "deadline": "13 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/growing-youth-work-in-eastern-eu?source_entity_type=group&source_entity_id=1114#no-back"
     },
     {
         "event_id": "15083",
@@ -156,19 +156,6 @@
         "application_form": "https://tcanetplatform.com/form/application-form-evidence-2026?source_entity_type=group&source_entity_id=1089#no-back"
     },
     {
-        "event_id": "15164",
-        "category": "Seminar",
-        "title": "Bringing Agile Learning into Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
-        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "21 September 2026",
-        "location": "online, Czech Republic",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
-    },
-    {
         "event_id": "15102",
         "category": "Seminar",
         "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
@@ -182,17 +169,30 @@
         "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
     },
     {
-        "event_id": "14942",
-        "category": "Training Course",
-        "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/living-and-organizing-in-our-communities-towards-more-justice-integrity-and-tenderness.14942/",
-        "summary": "This programme focuses on ✨how to build groups and communities that are resilient, able to weather disagreements, look after their members and adapt in the face of crises.✨",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "7-18 December 2026",
-        "location": "Piegros-la-Clastre, France",
-        "deadline": "30 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
-        "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
+        "event_id": "15164",
+        "category": "Seminar",
+        "title": "Bringing Agile Learning into Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
+        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "21 September 2026",
+        "location": "online, Czech Republic",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
+    },
+    {
+        "event_id": "15193",
+        "category": "E-learning",
+        "title": "Erasmus+ Sport Speed Dating: 1st Online Edition",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/erasmus-sport-speed-dating-1st-online-edition.15193/",
+        "summary": "Romanian National Agency invites sport organisations new to the Erasmus+ Sport framework to join the 1st Online Edition of “Erasmus+ Sport Speed Dating”, a dedicated space to discover, connect, and start your Erasmus+ journey.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "6 October 2026",
+        "location": "ONLINE, Romania",
+        "deadline": "24 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/erasmus-sport-speed-dating-1st-o?source_entity_type=group&source_entity_id=1105#no-back"
     },
     {
         "event_id": "14430",
@@ -206,6 +206,19 @@
         "deadline": "30 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/spaces-that-empower-rethinking?source_entity_type=group&source_entity_id=769#no-back"
+    },
+    {
+        "event_id": "14942",
+        "category": "Training Course",
+        "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/living-and-organizing-in-our-communities-towards-more-justice-integrity-and-tenderness.14942/",
+        "summary": "This programme focuses on ✨how to build groups and communities that are resilient, able to weather disagreements, look after their members and adapt in the face of crises.✨",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "7-18 December 2026",
+        "location": "Piegros-la-Clastre, France",
+        "deadline": "30 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
+        "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
         "event_id": "14367",
@@ -247,19 +260,6 @@
         "application_form": null
     },
     {
-        "event_id": "14419",
-        "category": "E-learning",
-        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
-        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
-        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "7 October 2026",
-        "location": "online, Belgium - FR",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
-    },
-    {
         "event_id": "15182",
         "category": "Partnership-building Activity",
         "title": "Partnership Building Activity with Study Visits in the field of Sport",
@@ -271,6 +271,19 @@
         "deadline": "4 October 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
+    },
+    {
+        "event_id": "14419",
+        "category": "E-learning",
+        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
+        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
+        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "7 October 2026",
+        "location": "online, Belgium - FR",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
     },
     {
         "event_id": "15041",
