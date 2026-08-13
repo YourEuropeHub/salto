@@ -1,31 +1,5 @@
 [
     {
-        "event_id": "15040",
-        "category": "Training Course",
-        "title": "Harry Totter and the Facilitator's Stone",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/harry-totter-and-the-facilitator-s-stone.15040/",
-        "summary": "Facilitation is more than leading activities. Explore how to create safe, meaningful and impactful learning experiences, develop your own facilitation style, and deepen your understanding of non-formal education.",
-        "participants_from": "Austria, Estonia, France, Germany, Italy, Latvia, Lithuania, Poland, Republic of North Macedonia, Serbia, Slovenia, Spain, Türkiye",
-        "date": "11-18 October 2026",
-        "location": "Slovenia",
-        "deadline": "11 September 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/ygRaHdZw13STHte68"
-    },
-    {
-        "event_id": "15058",
-        "category": "Partnership-building Activity",
-        "title": "Partnership Building Activity for Quality YouSports Mobility Projects",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-for-quality-yousports-mobility-projects.15058/",
-        "summary": "This PBA is aimed at organisations interested in preparing an application for a youth mobility project on sport",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "9-13 November 2026",
-        "location": "Malta",
-        "deadline": "11 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-pba-quality-of?source_entity_type=group&source_entity_id=1031#no-back"
-    },
-    {
         "event_id": "15203",
         "category": "Seminar",
         "title": "Growing Youth Work in Eastern Europe and Caucasus",
@@ -143,19 +117,6 @@
         "application_form": "https://tcanetplatform.com/form/application-form-for-internation?source_entity_type=group&source_entity_id=1075#no-back"
     },
     {
-        "event_id": "15167",
-        "category": "Conference – Symposium - Forum",
-        "title": "Evidence-based approach in Erasmus+ and European Solidarity Corps: Innovations in Research, Research on Innovations",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/evidence-based-approach-in-erasmus-and-european-solidarity-corps-innovations-in-research-research-on-innovations.15167/",
-        "summary": "The 10th, anniversary edition of the international conference “Evidence-Based Approach in Erasmus+ and the European Solidarity Corps”. This year’s edition comes at a time when reflection on the future of Erasmus+ (2028–2034) is gaining momentum.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "25-26 November 2026",
-        "location": "Warsaw, Poland",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-evidence-2026?source_entity_type=group&source_entity_id=1089#no-back"
-    },
-    {
         "event_id": "15102",
         "category": "Seminar",
         "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
@@ -167,6 +128,19 @@
         "deadline": "20 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
+    },
+    {
+        "event_id": "15167",
+        "category": "Conference – Symposium - Forum",
+        "title": "Evidence-based approach in Erasmus+ and European Solidarity Corps: Innovations in Research, Research on Innovations",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/evidence-based-approach-in-erasmus-and-european-solidarity-corps-innovations-in-research-research-on-innovations.15167/",
+        "summary": "The 10th, anniversary edition of the international conference “Evidence-Based Approach in Erasmus+ and the European Solidarity Corps”. This year’s edition comes at a time when reflection on the future of Erasmus+ (2028–2034) is gaining momentum.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "25-26 November 2026",
+        "location": "Warsaw, Poland",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-evidence-2026?source_entity_type=group&source_entity_id=1089#no-back"
     },
     {
         "event_id": "15164",
@@ -187,12 +161,25 @@
         "title": "Erasmus+ Sport Speed Dating: 1st Online Edition",
         "url": "https://www.salto-youth.net/tools/european-training-calendar/training/erasmus-sport-speed-dating-1st-online-edition.15193/",
         "summary": "Romanian National Agency invites sport organisations new to the Erasmus+ Sport framework to join the 1st Online Edition of “Erasmus+ Sport Speed Dating”, a dedicated space to discover, connect, and start your Erasmus+ journey.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "participants_from": "Erasmus+ Youth Programme countries",
         "date": "6 October 2026",
         "location": "ONLINE, Romania",
         "deadline": "24 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/erasmus-sport-speed-dating-1st-o?source_entity_type=group&source_entity_id=1105#no-back"
+    },
+    {
+        "event_id": "14367",
+        "category": "Training Course",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "30 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14430",
@@ -221,19 +208,6 @@
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
-        "event_id": "14367",
-        "category": "Training Course",
-        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
-        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-19 November 2026",
-        "location": "Luxembourg, Luxembourg",
-        "deadline": "30 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
-    },
-    {
         "event_id": "15194",
         "category": "Training Course",
         "title": "Quality in Practice: Strengthening Youth Organisations through Self-Assessment and Learning",
@@ -260,19 +234,6 @@
         "application_form": null
     },
     {
-        "event_id": "15182",
-        "category": "Partnership-building Activity",
-        "title": "Partnership Building Activity with Study Visits in the field of Sport",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-with-study-visits-in-the-field-of-sport.15182/",
-        "summary": "This activity combines study visits and partnership-building sessions for organisations using sport to promote social inclusion. Participants will exchange good practices, build international partnerships and explore future Erasmus+ Sport projects.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "9-14 November 2026",
-        "location": "Antalya, Türkiye",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
-    },
-    {
         "event_id": "14419",
         "category": "E-learning",
         "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
@@ -284,6 +245,19 @@
         "deadline": "4 October 2026",
         "infopack": null,
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
+    },
+    {
+        "event_id": "15182",
+        "category": "Partnership-building Activity",
+        "title": "Partnership Building Activity with Study Visits in the field of Sport",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-with-study-visits-in-the-field-of-sport.15182/",
+        "summary": "This activity combines study visits and partnership-building sessions for organisations using sport to promote social inclusion. Participants will exchange good practices, build international partnerships and explore future Erasmus+ Sport projects.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "9-14 November 2026",
+        "location": "Antalya, Türkiye",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
     },
     {
         "event_id": "15041",
