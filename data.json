@@ -26,6 +26,19 @@
         "application_form": "https://tcanetplatform.com/form/application-form-evidence-2026?source_entity_type=group&source_entity_id=1089#no-back"
     },
     {
+        "event_id": "15164",
+        "category": "Seminar",
+        "title": "Bringing Agile Learning into Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
+        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "21 September 2026",
+        "location": "online, Czech Republic",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
+    },
+    {
         "event_id": "15102",
         "category": "Seminar",
         "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
@@ -39,17 +52,17 @@
         "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
     },
     {
-        "event_id": "15164",
-        "category": "Seminar",
-        "title": "Bringing Agile Learning into Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
-        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
+        "event_id": "14974",
+        "category": "Training Course",
+        "title": "EAC EMPOWER Impact: Safe Space -  Finding Your Voice & Presence",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/eac-empower-impact-safe-space-finding-your-voice-presence.14974/",
+        "summary": "Train youth workers who explore how to guide young people to overcome self-doubt to turn cameras on, speak up, and comfortably occupy space in virtual environments.",
         "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "21 September 2026",
-        "location": "online, Czech Republic",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
+        "date": "24 September 2026",
+        "location": "Online, Spain",
+        "deadline": "22 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10927/1_30%20EAC%20EMPOWER%20Impact_%20Safe%20Space%20-%20%20Finding%20Your%20Voice%20%26%20Presence.png",
+        "application_form": "https://forms.gle/A9i7KUbajJ9emhAd9"
     },
     {
         "event_id": "15193",
@@ -156,19 +169,6 @@
         "application_form": null
     },
     {
-        "event_id": "15182",
-        "category": "Partnership-building Activity",
-        "title": "Partnership Building Activity with Study Visits in the field of Sport",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-with-study-visits-in-the-field-of-sport.15182/",
-        "summary": "This activity combines study visits and partnership-building sessions for organisations using sport to promote social inclusion. Participants will exchange good practices, build international partnerships and explore future Erasmus+ Sport projects.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "9-14 November 2026",
-        "location": "Antalya, Türkiye",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
-    },
-    {
         "event_id": "14419",
         "category": "E-learning",
         "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
@@ -180,6 +180,19 @@
         "deadline": "4 October 2026",
         "infopack": null,
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
+    },
+    {
+        "event_id": "15182",
+        "category": "Partnership-building Activity",
+        "title": "Partnership Building Activity with Study Visits in the field of Sport",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-with-study-visits-in-the-field-of-sport.15182/",
+        "summary": "This activity combines study visits and partnership-building sessions for organisations using sport to promote social inclusion. Participants will exchange good practices, build international partnerships and explore future Erasmus+ Sport projects.",
+        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "9-14 November 2026",
+        "location": "Antalya, Türkiye",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
     },
     {
         "event_id": "15041",
