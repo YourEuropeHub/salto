@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15135",
-        "category": "Study Visit",
-        "title": "International Seen & Heard Festival",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/international-seen-heard-festival.15135/",
-        "summary": "Celebrate 30 years of EU-funded youth volunteering at the International Seen & Heard Festival Study Visit in Dublin, Ireland, taking place 2–5 December 2026 around International Volunteer Day.",
-        "participants_from": "Austria, Czech Republic, Egypt, Germany, Ireland, Italy, Lithuania, Netherlands",
-        "date": "2-5 December 2026",
-        "location": "Dublin, Ireland",
-        "deadline": "18 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-internation?source_entity_type=group&source_entity_id=1075#no-back"
-    },
-    {
         "event_id": "15167",
         "category": "Conference – Symposium - Forum",
         "title": "Evidence-based approach in Erasmus+ and European Solidarity Corps: Innovations in Research, Research on Innovations",
@@ -26,19 +13,6 @@
         "application_form": "https://tcanetplatform.com/form/application-form-evidence-2026?source_entity_type=group&source_entity_id=1089#no-back"
     },
     {
-        "event_id": "15164",
-        "category": "Seminar",
-        "title": "Bringing Agile Learning into Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
-        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "21 September 2026",
-        "location": "online, Czech Republic",
-        "deadline": "20 September 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
-    },
-    {
         "event_id": "15102",
         "category": "Seminar",
         "title": "Sparking Change: Enhancing Community Impact in European Solidarity Corps Activities",
@@ -50,6 +24,19 @@
         "deadline": "20 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/application-form-sparking-change?source_entity_type=group&source_entity_id=1046#no-back "
+    },
+    {
+        "event_id": "15164",
+        "category": "Seminar",
+        "title": "Bringing Agile Learning into Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/bringing-agile-learning-into-youth-work.15164/",
+        "summary": "How do we move away from asking \"How do we deliver content?\" to \"How do we create a learning process that helps people grow, adapt, and learn continuously?\"",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "21 September 2026",
+        "location": "online, Czech Republic",
+        "deadline": "20 September 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfbE1fh5FxeQc35mJ2j4btpdjyY8z4p_PyVBOxHnNLFNkh0FA/viewform"
     },
     {
         "event_id": "14974",
@@ -78,17 +65,17 @@
         "application_form": "https://tcanetplatform.com/form/erasmus-sport-speed-dating-1st-o?source_entity_type=group&source_entity_id=1105#no-back"
     },
     {
-        "event_id": "14430",
-        "category": "Training Course",
-        "title": "Spaces that Empower: Rethinking Environments for Young People in Europe (IN GERMAN LANGUAGE)",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/spaces-that-empower-rethinking-environments-for-young-people-in-europe-in-german-language.14430/",
-        "summary": "We will focus on how different types of youth spaces can empower young people. Through study visits, workshops, participants will explore best practices.",
+        "event_id": "15215",
+        "category": "Seminar",
+        "title": "Discover EU Inclusion Meeting",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/discover-eu-inclusion-meeting.15215/",
+        "summary": "Are you working with Discover EU Inclusion and keen to sharpen your practice alongside peer applicants? This meeting brings together experienced organisations to share practices and build international connections.",
         "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-20 November 2026",
-        "location": "Luxembourg, Luxembourg",
-        "deadline": "30 September 2026",
+        "date": "23-26 November 2026",
+        "location": "Brussel, Belgium - FL",
+        "deadline": "29 September 2026",
         "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/spaces-that-empower-rethinking?source_entity_type=group&source_entity_id=769#no-back"
+        "application_form": "https://tcanetplatform.com/form/call-for-discover-eu-inclusion-m?source_entity_type=group&source_entity_id=1115#no-back"
     },
     {
         "event_id": "14942",
@@ -102,6 +89,19 @@
         "deadline": "30 September 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
+    },
+    {
+        "event_id": "14430",
+        "category": "Training Course",
+        "title": "Spaces that Empower: Rethinking Environments for Young People in Europe (IN GERMAN LANGUAGE)",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/spaces-that-empower-rethinking-environments-for-young-people-in-europe-in-german-language.14430/",
+        "summary": "We will focus on how different types of youth spaces can empower young people. Through study visits, workshops, participants will explore best practices.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-20 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "30 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/spaces-that-empower-rethinking?source_entity_type=group&source_entity_id=769#no-back"
     },
     {
         "event_id": "14367",
@@ -169,19 +169,6 @@
         "application_form": null
     },
     {
-        "event_id": "14419",
-        "category": "E-learning",
-        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
-        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
-        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "7 October 2026",
-        "location": "online, Belgium - FR",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
-    },
-    {
         "event_id": "15182",
         "category": "Partnership-building Activity",
         "title": "Partnership Building Activity with Study Visits in the field of Sport",
@@ -195,6 +182,19 @@
         "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
     },
     {
+        "event_id": "14419",
+        "category": "E-learning",
+        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
+        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
+        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "7 October 2026",
+        "location": "online, Belgium - FR",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
+    },
+    {
         "event_id": "15041",
         "category": "Training Course",
         "title": "Dive into Youth Participation",
@@ -206,6 +206,19 @@
         "deadline": "5 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10965/Training%20Course%20Dive%20into%20Youth%20Participation%20Albania%20-%20Call%20for%20participants%20and%20schedule.pdf",
         "application_form": "https://tcanetplatform.com/form/dive-into-youth-participation?source_entity_type=group&source_entity_id=1020#no-back"
+    },
+    {
+        "event_id": "15238",
+        "category": "Training Course",
+        "title": "From Idea to Impact - An Erasmus+ Youth and European Solidarity Corps Project Lab for Deaf and hard-of-hearing people and organisations",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-idea-to-impact-an-erasmus-youth-and-european-solidarity-corps-project-lab-for-deaf-and-hard-of-hearing-people-and-organisations.15238/",
+        "summary": "Do you have a youth project idea and want Erasmus+ or European Solidarity Corps funding? Get support to develop it, choose the right format, and meaningfully involve Deaf or hard-of-hearing people.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "3-7 February 2027",
+        "location": "Vienna, Austria",
+        "deadline": "11 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/from-idea-to-impact-an-erasmus-y?source_entity_type=group&source_entity_id=1119#no-back"
     },
     {
         "event_id": "15162",
