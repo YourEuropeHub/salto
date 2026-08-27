@@ -1,16 +1,16 @@
 [
     {
-        "event_id": "15248",
+        "event_id": "15244",
         "category": "Training Course",
-        "title": "Getting started with CP’s – Introduction to KA2",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/getting-started-with-cp-s-introduction-to-ka2.15248/",
-        "summary": "This training course is organised within the Erasmus+/Youth Programme and designed to increase participants’ competences in developing Cooperation Partnerships under Erasmus+/Youth Key Action 2.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "19-24 October 2026",
-        "location": "Chania, Greece",
-        "deadline": "25 September 2026",
+        "title": "Co-create space with and for youth",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/",
+        "summary": "How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth workers and placemakers?",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "14-18 December 2026",
+        "location": "Brussels, Belgium - FL",
+        "deadline": "29 September 2026",
         "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-getting-sta?source_entity_type=group&source_entity_id=1122#no-back"
+        "application_form": "https://tcanetplatform.com/form/application-form-for-co-create-s?source_entity_type=group&source_entity_id=1127#no-back"
     },
     {
         "event_id": "15215",
@@ -24,19 +24,6 @@
         "deadline": "29 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/call-for-discover-eu-inclusion-m?source_entity_type=group&source_entity_id=1115#no-back"
-    },
-    {
-        "event_id": "14367",
-        "category": "Training Course",
-        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
-        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-19 November 2026",
-        "location": "Luxembourg, Luxembourg",
-        "deadline": "30 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14430",
@@ -65,17 +52,17 @@
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
-        "event_id": "15194",
+        "event_id": "14367",
         "category": "Training Course",
-        "title": "Quality in Practice: Strengthening Youth Organisations through Self-Assessment and Learning",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/quality-in-practice-strengthening-youth-organisations-through-self-assessment-and-learning.15194/",
-        "summary": "This training introduces a Self-Assessment Tool for Quality Work with Young People developed in Malta, enabling participants to explore quality assurance, reflective practice, and the exchange of good practices.",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
         "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "23-27 November 2026",
-        "location": "Malta",
-        "deadline": "1 October 2026",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "30 September 2026",
         "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-quality-in-prac?source_entity_type=group&source_entity_id=1108#no-back"
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "15245",
