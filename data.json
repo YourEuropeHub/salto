@@ -1,16 +1,16 @@
 [
     {
-        "event_id": "15244",
+        "event_id": "15270",
         "category": "Training Course",
-        "title": "Co-create space with and for youth",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/",
-        "summary": "How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth workers and placemakers?",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "14-18 December 2026",
-        "location": "Brussels, Belgium - FL",
-        "deadline": "29 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-co-create-s?source_entity_type=group&source_entity_id=1127#no-back"
+        "title": "Tools for Youth Exchanges",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tools-for-youth-exchanges.15270/",
+        "summary": "Tools for Youth Exchanges (TYE) is an engaging and practical training experience, where you can explore, test, collaborate and construct tools for building better youth exchange projects.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "2-7 November 2026",
+        "location": "Thessaloniki, Greece",
+        "deadline": "27 September 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11070/TYE-GR%202026%20Draft%20Programme.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-form-for-tools-for-y?source_entity_type=group&source_entity_id=1129#no-back "
     },
     {
         "event_id": "15215",
@@ -24,6 +24,32 @@
         "deadline": "29 September 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/call-for-discover-eu-inclusion-m?source_entity_type=group&source_entity_id=1115#no-back"
+    },
+    {
+        "event_id": "15244",
+        "category": "Training Course",
+        "title": "Co-create space with and for youth",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/",
+        "summary": "How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth workers and placemakers?",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "14-18 December 2026",
+        "location": "Brussels, Belgium - FL",
+        "deadline": "29 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-for-co-create-s?source_entity_type=group&source_entity_id=1127#no-back"
+    },
+    {
+        "event_id": "14367",
+        "category": "Training Course",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
+        "deadline": "30 September 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "14430",
@@ -52,17 +78,17 @@
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
-        "event_id": "14367",
-        "category": "Training Course",
-        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
-        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-19 November 2026",
-        "location": "Luxembourg, Luxembourg",
+        "event_id": "15276",
+        "category": "Seminar",
+        "title": "STORYBUILDERS LAB: From Story to STEAM Challenge in Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/storybuilders-lab-from-story-to-steam-challenge-in-youth-work.15276/",
+        "summary": "A practice-based e-learning course for youth workers, youth leaders, trainers and facilitators who want to explore how storytelling, creative construction and STEAM can become tools for participation, problem solving and non-formal learning.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "6-29 October 2026",
+        "location": "Zoom, Greece",
         "deadline": "30 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11071/Storybuilders_Lab_SALTO_Infopack.pdf",
+        "application_form": "https://forms.gle/QoivZ2gBTbDv4yUk7"
     },
     {
         "event_id": "15245",
