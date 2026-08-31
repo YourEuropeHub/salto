@@ -1,42 +1,16 @@
 [
     {
-        "event_id": "15215",
+        "event_id": "15276",
         "category": "Seminar",
-        "title": "Discover EU Inclusion Meeting",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/discover-eu-inclusion-meeting.15215/",
-        "summary": "Are you working with Discover EU Inclusion and keen to sharpen your practice alongside peer applicants? This meeting brings together experienced organisations to share practices and build international connections.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "23-26 November 2026",
-        "location": "Brussel, Belgium - FL",
-        "deadline": "29 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/call-for-discover-eu-inclusion-m?source_entity_type=group&source_entity_id=1115#no-back"
-    },
-    {
-        "event_id": "15244",
-        "category": "Training Course",
-        "title": "Co-create space with and for youth",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/",
-        "summary": "How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth workers and placemakers?",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "14-18 December 2026",
-        "location": "Brussels, Belgium - FL",
-        "deadline": "29 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-for-co-create-s?source_entity_type=group&source_entity_id=1127#no-back"
-    },
-    {
-        "event_id": "14367",
-        "category": "Training Course",
-        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
-        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "17-19 November 2026",
-        "location": "Luxembourg, Luxembourg",
+        "title": "STORYBUILDERS LAB: From Story to STEAM Challenge in Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/storybuilders-lab-from-story-to-steam-challenge-in-youth-work.15276/",
+        "summary": "A practice-based e-learning course for youth workers, youth leaders, trainers and facilitators who want to explore how storytelling, creative construction and STEAM can become tools for participation, problem solving and non-formal learning.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "6-29 October 2026",
+        "location": "Zoom, Greece",
         "deadline": "30 September 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11071/Storybuilders_Lab_SALTO_Infopack.pdf",
+        "application_form": "https://forms.gle/QoivZ2gBTbDv4yUk7"
     },
     {
         "event_id": "14430",
@@ -65,17 +39,17 @@
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
-        "event_id": "15276",
-        "category": "Seminar",
-        "title": "STORYBUILDERS LAB: From Story to STEAM Challenge in Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/storybuilders-lab-from-story-to-steam-challenge-in-youth-work.15276/",
-        "summary": "A practice-based e-learning course for youth workers, youth leaders, trainers and facilitators who want to explore how storytelling, creative construction and STEAM can become tools for participation, problem solving and non-formal learning.",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "6-29 October 2026",
-        "location": "Zoom, Greece",
+        "event_id": "14367",
+        "category": "Training Course",
+        "title": "Solidarity Project lab \"Solidarity projects step by step\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/solidarity-project-lab-solidarity-projects-step-by-step.14367/",
+        "summary": "This is a workshop for young people aged 18-30 about solidarity projects. Participants are guided from the idea to the project",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "17-19 November 2026",
+        "location": "Luxembourg, Luxembourg",
         "deadline": "30 September 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11071/Storybuilders_Lab_SALTO_Infopack.pdf",
-        "application_form": "https://forms.gle/QoivZ2gBTbDv4yUk7"
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/solidarity-project-lab-luxembour?source_entity_type=group&source_entity_id=767#no-back"
     },
     {
         "event_id": "15245",
@@ -130,19 +104,6 @@
         "application_form": null
     },
     {
-        "event_id": "14419",
-        "category": "E-learning",
-        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
-        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
-        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "7 October 2026",
-        "location": "online, Belgium - FR",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
-    },
-    {
         "event_id": "15182",
         "category": "Partnership-building Activity",
         "title": "Partnership Building Activity with Study Visits in the field of Sport",
@@ -154,6 +115,19 @@
         "deadline": "4 October 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
+    },
+    {
+        "event_id": "14419",
+        "category": "E-learning",
+        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
+        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
+        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "7 October 2026",
+        "location": "online, Belgium - FR",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
     },
     {
         "event_id": "15041",
