@@ -1,29 +1,16 @@
 [
     {
-        "event_id": "15245",
-        "category": "Training Course",
-        "title": "Inclusion & Diversity in Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/inclusion-diversity-in-youth-work.15245/",
-        "summary": "We invite youth associations to participate in our TC, designed to foster connections and collaboration within the field of inclusion in youth work.",
+        "event_id": "15294",
+        "category": "Conference – Symposium - Forum",
+        "title": "EmpowerYouth Forum 3.0: Bringing Change to Communities",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/empoweryouth-forum-3-0-bringing-change-to-communities.15294/",
+        "summary": "\"The Empower Youth Forum\" brings together youth workers from across Europe to exchange best practices, explore the Swedish context of youth work, and strengthen inclusive engagement through innovation, collaboration, and impact.",
         "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "22-28 October 2026",
-        "location": "Bansko, Bulgaria",
-        "deadline": "1 October 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/EdgoC5EorzXzbjo6A"
-    },
-    {
-        "event_id": "15205",
-        "category": "Training Course",
-        "title": "CirqueVibe - Circus for Well-being and Inclusion in Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/cirquevibe-circus-for-well-being-and-inclusion-in-youth-work.15205/",
-        "summary": "This training of trainers is organized as a part of the CirqueVibe project that brings together circus pedagogy and social work with focus on marginalized youth (18-25 years of age).",
-        "participants_from": "Slovenia",
-        "date": "15-21 November 2026",
-        "location": "Prague, Czech Republic",
-        "deadline": "1 October 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/5XMAaasRPBLHe2MX7"
+        "date": "16-20 November 2026",
+        "location": "Sandviken, Gävle, Sweden",
+        "deadline": "2 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11077/Empower%20Youth%20Forum%203.0.pdf",
+        "application_form": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=hODHCfYmPES3cojJ8ApxrIz5AbasGE9OhmB2tcMR5P5UQUpCVURRV1VWTjFGWjM3TkQ3Q0VFS0xUWi4u"
     },
     {
         "event_id": "14963",
@@ -50,6 +37,19 @@
         "deadline": "2 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11026/MindBoost%20Academy%20Infopack.pdf",
         "application_form": null
+    },
+    {
+        "event_id": "15273",
+        "category": "Study Visit",
+        "title": "Study Visit to Estonia",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/study-visit-to-estonia.15273/",
+        "summary": "The activity is a 3-day study visit to Estonia where the purpose of the study visit is to learn how municipalities and organisations in Estonia work with the European youth programs.",
+        "participants_from": "Denmark, Estonia, Sweden",
+        "date": "30 November -  4 December 2026",
+        "location": "Tallinn and Tartu, Estonia",
+        "deadline": "4 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-study-visit-est?source_entity_type=group&source_entity_id=1133#no-back"
     },
     {
         "event_id": "15182",
@@ -91,6 +91,19 @@
         "application_form": "https://tcanetplatform.com/form/dive-into-youth-participation?source_entity_type=group&source_entity_id=1020#no-back"
     },
     {
+        "event_id": "15288",
+        "category": "Training Course",
+        "title": "Europe Goes Local: Using Erasmus+ KA153 Mobility Projects to Strengthen Local Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/europe-goes-local-using-erasmus-ka153-mobility-projects-to-strengthen-local-youth-work.15288/",
+        "summary": "The training course is part of the Europe Goes Local and aims to support youth workers in developing project applications for Erasmus+ Mobility of Youth Workers (KA153) projects.",
+        "participants_from": "Austria, Belgium - FL, Bulgaria, Croatia, Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Luxembourg, Norway, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Sweden, Switzerland",
+        "date": "8-10 December 2026",
+        "location": "Belgrade, Serbia",
+        "deadline": "11 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11074/DRAFT%20AGENDA%20EGL%20KA153%20training_RS01.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-for-egl-ka153-2026-r?source_entity_type=group&source_entity_id=1132#no-back"
+    },
+    {
         "event_id": "15238",
         "category": "Training Course",
         "title": "From Idea to Impact - An Erasmus+ Youth and European Solidarity Corps Project Lab for Deaf and hard-of-hearing people and organisations",
@@ -115,6 +128,19 @@
         "deadline": "15 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11018/Programme_ToT_Being%20Civically%20Engaged.pdf",
         "application_form": "https://forms.gle/MJ3dqfnyeJdKwZfS6 "
+    },
+    {
+        "event_id": "15284",
+        "category": "Training Course",
+        "title": "Humour is Serious Business",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/humour-is-serious-business.15284/",
+        "summary": "Turning humour into a deliberate, ethical tool for engaging young people more effectively. Non-formal methods, cultural reflection on humour, and concrete post-programme actions to bring back to your practice.",
+        "participants_from": "Armenia, Croatia, Hungary, Latvia, Montenegro, Poland, Portugal, Serbia, Spain",
+        "date": "27 November -  3 December 2026",
+        "location": "Hollókő, Hungary",
+        "deadline": "24 October 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSe6b2AsUAo875PL9KCsTiTBG4YHKo14Ut3wwIdLcfdhBKpArg/viewform?usp=dialog"
     },
     {
         "event_id": "15241",
