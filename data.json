@@ -1,44 +1,5 @@
 [
     {
-        "event_id": "15273",
-        "category": "Study Visit",
-        "title": "Study Visit to Estonia",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/study-visit-to-estonia.15273/",
-        "summary": "The activity is a 3-day study visit to Estonia where the purpose of the study visit is to learn how municipalities and organisations in Estonia work with the European youth programs.",
-        "participants_from": "Denmark, Estonia, Sweden",
-        "date": "30 November -  4 December 2026",
-        "location": "Tallinn and Tartu, Estonia",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-study-visit-est?source_entity_type=group&source_entity_id=1133#no-back"
-    },
-    {
-        "event_id": "15182",
-        "category": "Partnership-building Activity",
-        "title": "Partnership Building Activity with Study Visits in the field of Sport",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/partnership-building-activity-with-study-visits-in-the-field-of-sport.15182/",
-        "summary": "This activity combines study visits and partnership-building sessions for organisations using sport to promote social inclusion. Participants will exchange good practices, build international partnerships and explore future Erasmus+ Sport projects.",
-        "participants_from": "Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "9-14 November 2026",
-        "location": "Antalya, Türkiye",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/partnership-building-activity-wi?source_entity_type=group&source_entity_id=1098#no-back"
-    },
-    {
-        "event_id": "14419",
-        "category": "E-learning",
-        "title": "Democracy Reloading Webinars 2026: Developing youth participation in municipal decisions",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/democracy-reloading-webinars-2026-developing-youth-participation-in-municipal-decisions.14419/",
-        "summary": "Four 90-minute webinars focusing on the four key competences for municipalities in developing youth participation in municipal decisions.",
-        "participants_from": "United Kingdom, Eastern Partnership countries, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
-        "date": "7 October 2026",
-        "location": "online, Belgium - FR",
-        "deadline": "4 October 2026",
-        "infopack": null,
-        "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
-    },
-    {
         "event_id": "15041",
         "category": "Training Course",
         "title": "Dive into Youth Participation",
