@@ -13,19 +13,6 @@
         "application_form": "https://tcanetplatform.com/form/application-for-egl-ka153-2026-r?source_entity_type=group&source_entity_id=1132#no-back"
     },
     {
-        "event_id": "15298",
-        "category": "Training Course",
-        "title": "Tools for Adventurous Education",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tools-for-adventurous-education.15298/",
-        "summary": "This training course will offer an immersive experiential journey to the world of Inclusion through role playing, escape game mechanics, and a gamified educational approach of Greek mythology.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "16-21 November 2026",
-        "location": "Ioannina, Greece",
-        "deadline": "11 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11080/Draft%20Agenda%20-%20Tools%20for%20adventurous%20education.pdf",
-        "application_form": "https://tcanetplatform.com/form/application-form-for-tools-for-a?source_entity_type=group&source_entity_id=1140#no-back"
-    },
-    {
         "event_id": "15238",
         "category": "Training Course",
         "title": "From Idea to Impact - An Erasmus+ Youth and European Solidarity Corps Project Lab for Deaf and hard-of-hearing people and organisations",
@@ -37,6 +24,19 @@
         "deadline": "11 October 2026",
         "infopack": null,
         "application_form": "https://tcanetplatform.com/form/from-idea-to-impact-an-erasmus-y?source_entity_type=group&source_entity_id=1119#no-back"
+    },
+    {
+        "event_id": "15298",
+        "category": "Training Course",
+        "title": "Tools for Adventurous Education",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tools-for-adventurous-education.15298/",
+        "summary": "This training course will offer an immersive experiential journey to the world of Inclusion through role playing, escape game mechanics, and a gamified educational approach of Greek mythology.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "16-21 November 2026",
+        "location": "Ioannina, Greece",
+        "deadline": "11 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11080/Draft%20Agenda%20-%20Tools%20for%20adventurous%20education.pdf",
+        "application_form": "https://tcanetplatform.com/form/application-form-for-tools-for-a?source_entity_type=group&source_entity_id=1140#no-back"
     },
     {
         "event_id": "15162",
@@ -76,6 +76,19 @@
         "deadline": "24 October 2026",
         "infopack": null,
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSe6b2AsUAo875PL9KCsTiTBG4YHKo14Ut3wwIdLcfdhBKpArg/viewform?usp=dialog"
+    },
+    {
+        "event_id": "15309",
+        "category": "Training Course",
+        "title": "ICT&SM 4.0: Advancing Digital Youth Work for Civic Engagement",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ict-sm-4-0-advancing-digital-youth-work-for-civic-engagement.15309/",
+        "summary": "The project is designed to equip youth workers with digital skills and tools to strengthen civic participation and engage young people through Information and Communication Technology (ICT).",
+        "participants_from": "Cyprus, Czech Republic, Germany, Italy, Norway, Serbia",
+        "date": "12-20 February 2027",
+        "location": "Hemmersheim, Germany",
+        "deadline": "29 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11087/Infopack-Brezn%20ICT%26SM%204.0_compressed.pdf",
+        "application_form": "https://forms.gle/yAHZfRBHRngF6E5e9"
     },
     {
         "event_id": "15241",
