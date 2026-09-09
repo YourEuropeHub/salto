@@ -1,5 +1,18 @@
 [
     {
+        "event_id": "15216",
+        "category": "Training Course",
+        "title": "Youth Workers as Mental Health Supporters",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-workers-as-mental-health-supporters.15216/",
+        "summary": "“Youth Workers as Mental Health Supporters” empowers 28 youth workers through mental health, empathy, communication and digital literacy training, helping them combat misinformation and support young people’s well-being in their communities.",
+        "participants_from": "Poland, Portugal, Slovak Republic, Türkiye",
+        "date": "27 November -  6 December 2026",
+        "location": "Sakarya, Türkiye",
+        "deadline": "10 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11090/Psychological%20First%20Aid%20for%20Youth%20Workers.pdf",
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeLn5kq0G8ooXlV5e-LUSB6CFQEtaMuFeRqSIv50AMWb65zMw/viewform?usp=publish-editor"
+    },
+    {
         "event_id": "15288",
         "category": "Training Course",
         "title": "Europe Goes Local: Using Erasmus+ KA153 Mobility Projects to Strengthen Local Youth Work",
@@ -63,6 +76,19 @@
         "deadline": "15 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
+    },
+    {
+        "event_id": "15317",
+        "category": "Training Course",
+        "title": "Volunteering for ALL - Slovakia December 2026",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/volunteering-for-all-slovakia-december-2026.15317/",
+        "summary": "Did you know you can get funding for volunteering projects for young people from disadvantaged backgrounds?",
+        "participants_from": "Armenia, Belarus, Georgia, Moldova, Ukraine, Erasmus+ Youth Programme countries",
+        "date": "7 December 2026",
+        "location": "Slovak Republic",
+        "deadline": "21 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/volunteering-for-all-slovakia-sk?source_entity_type=group&source_entity_id=1135#no-back"
     },
     {
         "event_id": "15284",
