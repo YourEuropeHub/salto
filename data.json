@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15216",
-        "category": "Training Course",
-        "title": "Youth Workers as Mental Health Supporters",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-workers-as-mental-health-supporters.15216/",
-        "summary": "“Youth Workers as Mental Health Supporters” empowers 28 youth workers through mental health, empathy, communication and digital literacy training, helping them combat misinformation and support young people’s well-being in their communities.",
-        "participants_from": "Poland, Portugal, Slovak Republic, Türkiye",
-        "date": "27 November -  6 December 2026",
-        "location": "Sakarya, Türkiye",
-        "deadline": "10 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11090/Psychological%20First%20Aid%20for%20Youth%20Workers.pdf",
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeLn5kq0G8ooXlV5e-LUSB6CFQEtaMuFeRqSIv50AMWb65zMw/viewform?usp=publish-editor"
-    },
-    {
         "event_id": "15288",
         "category": "Training Course",
         "title": "Europe Goes Local: Using Erasmus+ KA153 Mobility Projects to Strengthen Local Youth Work",
@@ -24,6 +11,19 @@
         "deadline": "11 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11074/DRAFT%20AGENDA%20EGL%20KA153%20training_RS01.pdf",
         "application_form": "https://tcanetplatform.com/form/application-for-egl-ka153-2026-r?source_entity_type=group&source_entity_id=1132#no-back"
+    },
+    {
+        "event_id": "15320",
+        "category": "Training Course",
+        "title": "Training for Mentors 2",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/training-for-mentors-2.15320/",
+        "summary": "This training course focuses on developing the competences mentors need to effectively support young volunteers throughout their European Solidarity Corps (ESC) journey. The course aims to provide participants with practical tools and methods.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "2-6 November 2026",
+        "location": "Ioannina, Greece",
+        "deadline": "11 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/application-form-training-for-me?source_entity_type=group&source_entity_id=1145#no-back"
     },
     {
         "event_id": "15238",
@@ -65,19 +65,6 @@
         "application_form": "https://forms.gle/MJ3dqfnyeJdKwZfS6 "
     },
     {
-        "event_id": "15313",
-        "category": "Partnership-building Activity",
-        "title": "Synapse: Connecting Networks for Impact",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/synapse-connecting-networks-for-impact.15313/",
-        "summary": "“Synapse” is a Partnership Building Activity in Zaragoza, Spain (Nov 23-28, 2026) where organizations exchange good practices, connect, and design future Erasmus+ projects linking circular economy, art, social inclusion and non-formal education.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "23-28 November 2026",
-        "location": "Zaragoza, Spain",
-        "deadline": "15 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11088/INFOPACK%20PBA%20SYNAPSE.pdf",
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScykmLgmlJjs2oIitxMglePLdpRbu63haY3wt-DiVEWxSu2Hg/viewform?usp=sharing&ouid=110954763686503439748"
-    },
-    {
         "event_id": "14942",
         "category": "Training Course",
         "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
@@ -89,6 +76,19 @@
         "deadline": "15 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
         "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
+    },
+    {
+        "event_id": "15313",
+        "category": "Partnership-building Activity",
+        "title": "Synapse: Connecting Networks for Impact",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/synapse-connecting-networks-for-impact.15313/",
+        "summary": "“Synapse” is a Partnership Building Activity in Zaragoza, Spain (Nov 23-28, 2026) where organizations exchange good practices, connect, and design future Erasmus+ projects linking circular economy, art, social inclusion and non-formal education.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "23-28 November 2026",
+        "location": "Zaragoza, Spain",
+        "deadline": "15 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11088/INFOPACK%20PBA%20SYNAPSE.pdf",
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScykmLgmlJjs2oIitxMglePLdpRbu63haY3wt-DiVEWxSu2Hg/viewform?usp=sharing&ouid=110954763686503439748"
     },
     {
         "event_id": "15317",
