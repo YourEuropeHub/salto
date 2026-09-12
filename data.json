@@ -1,57 +1,5 @@
 [
     {
-        "event_id": "15288",
-        "category": "Training Course",
-        "title": "Europe Goes Local: Using Erasmus+ KA153 Mobility Projects to Strengthen Local Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/europe-goes-local-using-erasmus-ka153-mobility-projects-to-strengthen-local-youth-work.15288/",
-        "summary": "The training course is part of the Europe Goes Local and aims to support youth workers in developing project applications for Erasmus+ Mobility of Youth Workers (KA153) projects.",
-        "participants_from": "Austria, Belgium - FL, Bulgaria, Croatia, Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Luxembourg, Norway, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Sweden, Switzerland",
-        "date": "8-10 December 2026",
-        "location": "Belgrade, Serbia",
-        "deadline": "11 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11074/DRAFT%20AGENDA%20EGL%20KA153%20training_RS01.pdf",
-        "application_form": "https://tcanetplatform.com/form/application-for-egl-ka153-2026-r?source_entity_type=group&source_entity_id=1132#no-back"
-    },
-    {
-        "event_id": "15320",
-        "category": "Training Course",
-        "title": "Training for Mentors 2",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/training-for-mentors-2.15320/",
-        "summary": "This training course focuses on developing the competences mentors need to effectively support young volunteers throughout their European Solidarity Corps (ESC) journey. The course aims to provide participants with practical tools and methods.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "2-6 November 2026",
-        "location": "Ioannina, Greece",
-        "deadline": "11 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/application-form-training-for-me?source_entity_type=group&source_entity_id=1145#no-back"
-    },
-    {
-        "event_id": "15238",
-        "category": "Training Course",
-        "title": "From Idea to Impact - An Erasmus+ Youth and European Solidarity Corps Project Lab for Deaf and hard-of-hearing people and organisations",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-idea-to-impact-an-erasmus-youth-and-european-solidarity-corps-project-lab-for-deaf-and-hard-of-hearing-people-and-organisations.15238/",
-        "summary": "Do you have a youth project idea and want Erasmus+ or European Solidarity Corps funding? Get support to develop it, choose the right format, and meaningfully involve Deaf or hard-of-hearing people.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "3-7 February 2027",
-        "location": "Vienna, Austria",
-        "deadline": "11 October 2026",
-        "infopack": null,
-        "application_form": "https://tcanetplatform.com/form/from-idea-to-impact-an-erasmus-y?source_entity_type=group&source_entity_id=1119#no-back"
-    },
-    {
-        "event_id": "15298",
-        "category": "Training Course",
-        "title": "Tools for Adventurous Education",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tools-for-adventurous-education.15298/",
-        "summary": "This training course will offer an immersive experiential journey to the world of Inclusion through role playing, escape game mechanics, and a gamified educational approach of Greek mythology.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "16-21 November 2026",
-        "location": "Ioannina, Greece",
-        "deadline": "11 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11080/Draft%20Agenda%20-%20Tools%20for%20adventurous%20education.pdf",
-        "application_form": "https://tcanetplatform.com/form/application-form-for-tools-for-a?source_entity_type=group&source_entity_id=1140#no-back"
-    },
-    {
         "event_id": "15162",
         "category": "Training Course",
         "title": "Training of Trainers on Being Civically Engaged",
@@ -65,19 +13,6 @@
         "application_form": "https://forms.gle/MJ3dqfnyeJdKwZfS6 "
     },
     {
-        "event_id": "14942",
-        "category": "Training Course",
-        "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/living-and-organizing-in-our-communities-towards-more-justice-integrity-and-tenderness.14942/",
-        "summary": "This programme focuses on ✨how to build groups and communities that are resilient, able to weather disagreements, look after their members and adapt in the face of crises.✨",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "7-18 December 2026",
-        "location": "Piegros-la-Clastre, France",
-        "deadline": "15 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
-        "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
-    },
-    {
         "event_id": "15313",
         "category": "Partnership-building Activity",
         "title": "Synapse: Connecting Networks for Impact",
@@ -89,6 +24,19 @@
         "deadline": "15 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11088/INFOPACK%20PBA%20SYNAPSE.pdf",
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScykmLgmlJjs2oIitxMglePLdpRbu63haY3wt-DiVEWxSu2Hg/viewform?usp=sharing&ouid=110954763686503439748"
+    },
+    {
+        "event_id": "14942",
+        "category": "Training Course",
+        "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/living-and-organizing-in-our-communities-towards-more-justice-integrity-and-tenderness.14942/",
+        "summary": "This programme focuses on ✨how to build groups and communities that are resilient, able to weather disagreements, look after their members and adapt in the face of crises.✨",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "7-18 December 2026",
+        "location": "Piegros-la-Clastre, France",
+        "deadline": "15 October 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
+        "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
     },
     {
         "event_id": "15317",
