@@ -1,42 +1,16 @@
 [
     {
-        "event_id": "15162",
-        "category": "Training Course",
-        "title": "Training of Trainers on Being Civically Engaged",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/training-of-trainers-on-being-civically-engaged.15162/",
-        "summary": "Join the certified and ETS-aligned course to strengthen trainers' competencies in being civically engaged, focusing on the civic role of the trainer, integrating values and beliefs, critical thinking, and democracy and human rights principles.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden",
-        "date": "1-7 February 2027",
-        "location": "Coma-Ruga, Catalonia, Spain",
-        "deadline": "15 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11018/Programme_ToT_Being%20Civically%20Engaged.pdf",
-        "application_form": "https://forms.gle/MJ3dqfnyeJdKwZfS6 "
-    },
-    {
-        "event_id": "15313",
-        "category": "Partnership-building Activity",
-        "title": "Synapse: Connecting Networks for Impact",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/synapse-connecting-networks-for-impact.15313/",
-        "summary": "“Synapse” is a Partnership Building Activity in Zaragoza, Spain (Nov 23-28, 2026) where organizations exchange good practices, connect, and design future Erasmus+ projects linking circular economy, art, social inclusion and non-formal education.",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "23-28 November 2026",
-        "location": "Zaragoza, Spain",
-        "deadline": "15 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11088/INFOPACK%20PBA%20SYNAPSE.pdf",
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScykmLgmlJjs2oIitxMglePLdpRbu63haY3wt-DiVEWxSu2Hg/viewform?usp=sharing&ouid=110954763686503439748"
-    },
-    {
-        "event_id": "14942",
-        "category": "Training Course",
-        "title": "\"LIVING AND ORGANIZING  IN OUR COMMUNITIES : Towards more justice,  integrity, and tenderness\"",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/living-and-organizing-in-our-communities-towards-more-justice-integrity-and-tenderness.14942/",
-        "summary": "This programme focuses on ✨how to build groups and communities that are resilient, able to weather disagreements, look after their members and adapt in the face of crises.✨",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "7-18 December 2026",
-        "location": "Piegros-la-Clastre, France",
-        "deadline": "15 October 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10989/Living%20and%20Organizing%20communities%202026%20Infopack-3.zip",
-        "application_form": "https://framaforms.org/sy-application-form-living-and-organizing-in-our-communities-towards-more-justice-integrity-and-0"
+        "event_id": "15344",
+        "category": "Conference – Symposium - Forum",
+        "title": "PACT Online Conference",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pact-online-conference.15344/",
+        "summary": "PACT Final Online Conference: Empowering Youth Work through PFA & Creative Techniques. Discover the PFA Manual, Creative Toolkit & E-learning Platform built by 8 countries over 2 years. 19 Oct, 17:00 CET, online via Zoom. Free registration, open to all.",
+        "participants_from": "Armenia, Georgia, Greece, Italy, Lithuania, Moldova, Spain, Ukraine",
+        "date": "19 October 2026",
+        "location": "Online (Zoom), Ukraine",
+        "deadline": "16 October 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/24AZX9dctDUNpY8Y7"
     },
     {
         "event_id": "15317",
@@ -89,6 +63,19 @@
         "deadline": "29 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11087/Infopack-Brezn%20ICT%26SM%204.0_compressed.pdf",
         "application_form": "https://forms.gle/yAHZfRBHRngF6E5e9"
+    },
+    {
+        "event_id": "15346",
+        "category": "Conference – Symposium - Forum",
+        "title": "From Lived Experience to Opportunity, Knowledge and Action: European Dialogue & Capacity-Building Forum 2027",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-lived-experience-to-opportunity-knowledge-and-action-european-dialogue-capacity-building-forum-2027.15346/",
+        "summary": "A European dialogue bringing together young refugees, migrants and stateless changemakers, youth workers, researchers and institutions to explore participation, access to opportunities, community knowledge and youth-led action.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "23-24 April 2027",
+        "location": "Warsaw, Poland",
+        "deadline": "9 March 2027",
+        "infopack": null,
+        "application_form": "https://hub.enrmsc.org/events/european-dialogue-capacity-building-forum-2027"
     },
     {
         "event_id": "15241",
