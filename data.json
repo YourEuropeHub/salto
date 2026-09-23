@@ -13,6 +13,19 @@
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSe6b2AsUAo875PL9KCsTiTBG4YHKo14Ut3wwIdLcfdhBKpArg/viewform?usp=dialog"
     },
     {
+        "event_id": "15372",
+        "category": "Training Course",
+        "title": "Introduction training for newcomers to Youth Exchanges - BiTriMulti",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/introduction-training-for-newcomers-to-youth-exchanges-bitrimulti.15372/",
+        "summary": "This training course takes you through the different stages of setting up and running a quality Youth Exchange project. The training is designed for newcomers to Youth Exchanges and Erasmus+.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "8-12 December 2026",
+        "location": "Youth Centre Hyvärilä, Nurmes, Finland",
+        "deadline": "25 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/bitrimulti-finland-2026?source_entity_type=group&source_entity_id=1153#no-back"
+    },
+    {
         "event_id": "15330",
         "category": "E-learning",
         "title": "Create with Makey Makey: Turning Everyday Objects into Interactive Learning",
