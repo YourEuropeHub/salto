@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15284",
-        "category": "Training Course",
-        "title": "Humour is Serious Business",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/humour-is-serious-business.15284/",
-        "summary": "Turning humour into a deliberate, ethical tool for engaging young people more effectively. Non-formal methods, cultural reflection on humour, and concrete post-programme actions to bring back to your practice.",
-        "participants_from": "Armenia, Croatia, Hungary, Latvia, Montenegro, Poland, Portugal, Serbia, Spain",
-        "date": "27 November -  3 December 2026",
-        "location": "Hollókő, Hungary",
-        "deadline": "24 October 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSe6b2AsUAo875PL9KCsTiTBG4YHKo14Ut3wwIdLcfdhBKpArg/viewform?usp=dialog"
-    },
-    {
         "event_id": "15372",
         "category": "Training Course",
         "title": "Introduction training for newcomers to Youth Exchanges - BiTriMulti",
@@ -37,6 +24,32 @@
         "deadline": "26 October 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11098/Create_with_Makey_Makey_SALTO_Infopack.pdf",
         "application_form": "https://forms.gle/JhdvQRikenSy9VAG6"
+    },
+    {
+        "event_id": "15391",
+        "category": "E-learning",
+        "title": "Sustainable Project Management",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sustainable-project-management.15391/",
+        "summary": "Participants will learn how to assess and manage the sustainability impacts of digital projects, including resource allocation, waste reduction, and energy efficiency.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "5-26 November 2026",
+        "location": "Online, Portugal",
+        "deadline": "29 October 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/1P9395DE5WnyVFfr9"
+    },
+    {
+        "event_id": "15390",
+        "category": "Training Course",
+        "title": "Mental health in youth work Training Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/mental-health-in-youth-work-training-course.15390/",
+        "summary": "The training provides a foundation for understanding how youth workers can strengthen and support young people’s mental health, wellbeing, and resilience; aimed for youth workers who work directly with young people in youth work settings.",
+        "participants_from": "Armenia, Azerbaijan, Georgia, Moldova, Ukraine, Erasmus+ Youth Programme countries, Southern Mediterranean countries, Western Balkan countries",
+        "date": "22-26 March 2027",
+        "location": "Brussels, Belgium - FR",
+        "deadline": "31 October 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/mental-health-in-youth-work-tc?source_entity_type=group&source_entity_id=1138#no-back"
     },
     {
         "event_id": "15355",
