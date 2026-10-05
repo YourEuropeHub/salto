@@ -52,6 +52,19 @@
         "application_form": "https://hub.enrmsc.org/events/equal-ground"
     },
     {
+        "event_id": "15415",
+        "category": "Training Course",
+        "title": "Embodied Belonging",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/embodied-belonging.15415/",
+        "summary": "\"Embodied Belonging\" is an Erasmus+ training in Latvia exploring eco-somatics, movement, and nature connection. For youth workers to cultivate presence, nervous system regulation, and grounded belonging to support youth well-being.",
+        "participants_from": "France, Italy, Latvia, Slovenia, Spain",
+        "date": "18-29 January 2027",
+        "location": "Latvia",
+        "deadline": "4 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11136/Embodied%20Belonging.pdf",
+        "application_form": "https://forms.gle/WPQCs2pHuRRom5BK9"
+    },
+    {
         "event_id": "15385",
         "category": "Training Course",
         "title": "Life in It Training Course",
@@ -63,6 +76,19 @@
         "deadline": "10 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11122/Life%20in%20it%20%20Infopack.pdf",
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfOuiHhBvHxVzfixENWR4ca0aw5Vyd_r7Yl0KoB6TbsB0Yu6g/viewform?usp=send_form"
+    },
+    {
+        "event_id": "15409",
+        "category": "Training Course",
+        "title": "Move, Play, Create : Circus and Physical Theatre as Tools for Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/move-play-create-circus-and-physical-theatre-as-tools-for-youth-work.15409/",
+        "summary": "A practical training for youth workers to discover circus and theatre as tools for non-formal education, exploring accessible activities that foster creativity, confidence, cooperation and social connection.",
+        "participants_from": "Bulgaria, Czech Republic, Denmark, France, Germany, Greece, Italy, Poland, Portugal, Serbia, Slovenia, Spain, Türkiye",
+        "date": "1-7 February 2027",
+        "location": "Brežice, Slovenia",
+        "deadline": "18 December 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/iCZrs2un7smPhRH58"
     },
     {
         "event_id": "15309",
