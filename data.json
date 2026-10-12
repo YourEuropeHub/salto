@@ -39,6 +39,19 @@
         "application_form": "https://www.salto-youth.net/tools/european-training-calendar/application-procedure/15754/application/"
     },
     {
+        "event_id": "15443",
+        "category": "Training Course",
+        "title": "TIC TAC - Training Course & Partnership Building Activity Mobility of Youth Workers",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tic-tac-training-course-partnership-building-activity-mobility-of-youth-workers.15443/",
+        "summary": "Bringing together youth workers representing youth organisations the TICTAC aims at improving the potential of the participants to get involved in the program and increase the quality of KA153 (Youth Worker Mobility projects).",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "25-31 January 2027",
+        "location": "Rome, Italy",
+        "deadline": "23 November 2026",
+        "infopack": null,
+        "application_form": "https://tcanetplatform.com/form/tic-tac-training-course-partners?source_entity_type=group&source_entity_id=1170#no-back"
+    },
+    {
         "event_id": "15414",
         "category": "Training Course",
         "title": "The Playbook for Inclusion: Socio-Sports Leadership",
@@ -50,6 +63,19 @@
         "deadline": "30 November 2026",
         "infopack": null,
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScE_Zeey91uRmnjF-ON3o8z9D9ZAKyUliRx4vtnktjJVEUv3A/viewform?usp=dialog"
+    },
+    {
+        "event_id": "15439",
+        "category": "Training Course",
+        "title": "TC WINTER 27 - Adventure and Experiential Learning for Personal Growth & Wellbeing",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tc-winter-27-adventure-and-experiential-learning-for-personal-growth-wellbeing.15439/",
+        "summary": "An immersive winter training for youth workers exploring adventure and experiential learning as tools for personal growth, wellbeing and more meaningful work with young people through outdoor challenges, reflection and shared learning.",
+        "participants_from": "Austria, Cyprus, France, Germany, Greece, Ireland, Latvia, Netherlands, Portugal, Spain",
+        "date": "22-26 February 2027",
+        "location": "Soriano nel Cimino, Italy",
+        "deadline": "5 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11152/TC%20WINTER%2027.pdf",
+        "application_form": "https://forms.gle/GiPpBR1nuAXAqLn48"
     },
     {
         "event_id": "15385",
@@ -89,6 +115,19 @@
         "deadline": "29 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11087/Infopack-Brezn%20ICT%26SM%204.0_compressed.pdf",
         "application_form": "https://forms.gle/yAHZfRBHRngF6E5e9"
+    },
+    {
+        "event_id": "15152",
+        "category": "Training Course",
+        "title": "ENVIRONMENTAL LEADERSHIP",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/environmental-leadership.15152/",
+        "summary": "During the training, we will exchange best practices and explore how to become effective environmental leaders in Youth Exchanges. Participants enrolling in this TC should be ready to take on a leadership role in a future YE.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "18-24 March 2027",
+        "location": "Jesús -Tortosa (Catalonia), Spain",
+        "deadline": "4 February 2027",
+        "infopack": null,
+        "application_form": "https://forms.gle/SNEEphPWFxQ5XJrb9"
     },
     {
         "event_id": "15346",
