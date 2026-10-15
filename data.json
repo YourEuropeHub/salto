@@ -1,16 +1,16 @@
 [
     {
-        "event_id": "15417",
+        "event_id": "15461",
         "category": "Training Course",
-        "title": "STAGE — Staging Tools for Awareness, Growth & Expression",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/stage-staging-tools-for-awareness-growth-expression.15417/",
-        "summary": "Casa del Trigo, La Almudema, Caravaca de la Cruz (Murcia), Spain",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "28 February - 25 April 2027",
-        "location": "Casa del Trigo, La Almudema, Caravaca de la Cruz (Murcia), Spain",
+        "title": "Green Games Lab",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-games-lab.15461/",
+        "summary": "Green Games Lab is a 7-day Erasmus+ training course in Poland for youth workers interested in sustainability and game-based learning. Participants will design, prototype and test educational games that engage young people in environmental issues.",
+        "participants_from": "Bulgaria, Italy, Poland, Romania, Serbia, Spain, Türkiye, Partner Countries Neighbouring the EU",
+        "date": "11-19 January 2027",
+        "location": "Tleń, Poland",
         "deadline": "15 November 2026",
         "infopack": null,
-        "application_form": "https://tally.so/r/RGykG9"
+        "application_form": "https://forms.gle/SNXZV35QwF6WbcPE7"
     },
     {
         "event_id": "15353",
@@ -24,6 +24,19 @@
         "deadline": "15 November 2026",
         "infopack": null,
         "application_form": "https://meltonfoundation.org/global-solvers-accelerator/"
+    },
+    {
+        "event_id": "15417",
+        "category": "Training Course",
+        "title": "STAGE — Staging Tools for Awareness, Growth & Expression",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/stage-staging-tools-for-awareness-growth-expression.15417/",
+        "summary": "Casa del Trigo, La Almudema, Caravaca de la Cruz (Murcia), Spain",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "28 February - 25 April 2027",
+        "location": "Casa del Trigo, La Almudema, Caravaca de la Cruz (Murcia), Spain",
+        "deadline": "15 November 2026",
+        "infopack": null,
+        "application_form": "https://tally.so/r/RGykG9"
     },
     {
         "event_id": "14419",
