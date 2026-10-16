@@ -5,25 +5,12 @@
         "title": "Green Games Lab",
         "url": "https://www.salto-youth.net/tools/european-training-calendar/training/green-games-lab.15461/",
         "summary": "Green Games Lab is a 7-day Erasmus+ training course in Poland for youth workers interested in sustainability and game-based learning. Participants will design, prototype and test educational games that engage young people in environmental issues.",
-        "participants_from": "Bulgaria, Italy, Poland, Romania, Serbia, Spain, Türkiye, Partner Countries Neighbouring the EU",
+        "participants_from": "Bulgaria, Italy, Poland, Romania, Serbia, Spain, Türkiye",
         "date": "11-19 January 2027",
         "location": "Tleń, Poland",
         "deadline": "15 November 2026",
         "infopack": null,
         "application_form": "https://forms.gle/SNXZV35QwF6WbcPE7"
-    },
-    {
-        "event_id": "15353",
-        "category": "Training Course",
-        "title": "Global Solvers Accelerator_GSA_2027",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/global-solvers-accelerator-gsa-2027.15353/",
-        "summary": "Online GSA Program: 1st April – 30th November 2027. In-person Co-Lab: 3 – 10 July 2027, Germany",
-        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
-        "date": "1 April - 30 November 2027",
-        "location": "Online GSA Program: 1st April – 30th November 2027. In-person Co-Lab: 3 – 10 July 2027, Germany",
-        "deadline": "15 November 2026",
-        "infopack": null,
-        "application_form": "https://meltonfoundation.org/global-solvers-accelerator/"
     },
     {
         "event_id": "15417",
@@ -37,6 +24,19 @@
         "deadline": "15 November 2026",
         "infopack": null,
         "application_form": "https://tally.so/r/RGykG9"
+    },
+    {
+        "event_id": "15353",
+        "category": "Training Course",
+        "title": "Global Solvers Accelerator_GSA_2027",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/global-solvers-accelerator-gsa-2027.15353/",
+        "summary": "Online GSA Program: 1st April – 30th November 2027. In-person Co-Lab: 3 – 10 July 2027, Germany",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "1 April - 30 November 2027",
+        "location": "Online GSA Program: 1st April – 30th November 2027. In-person Co-Lab: 3 – 10 July 2027, Germany",
+        "deadline": "15 November 2026",
+        "infopack": null,
+        "application_form": "https://meltonfoundation.org/global-solvers-accelerator/"
     },
     {
         "event_id": "14419",
