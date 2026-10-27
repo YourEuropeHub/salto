@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15443",
-        "category": "Training Course",
-        "title": "TIC TAC - Training Course & Partnership Building Activity Mobility of Youth Workers",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/tic-tac-training-course-partnership-building-activity-mobility-of-youth-workers.15443/",
-        "summary": "Bringing together youth workers representing youth organisations the TICTAC aims at improving the potential of the participants to get involved in the program and increase the quality of KA153 (Youth Worker Mobility projects).",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "25-31 January 2027",
-        "location": "Rome, Italy",
-        "deadline": "25 November 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11156/TICTAC%20Info%20pack%20for%20participants.pdf",
-        "application_form": "https://tcanetplatform.com/form/tic-tac-training-course-partners?source_entity_type=group&source_entity_id=1170#no-back"
-    },
-    {
         "event_id": "15452",
         "category": "Partnership-building Activity",
         "title": "Online Challenge - Develop your quality KA2 small-scale partnership project focused on youth participation",
@@ -106,11 +93,11 @@
     {
         "event_id": "15152",
         "category": "Training Course",
-        "title": "ENVIRONMENTAL LEADERSHIP",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/environmental-leadership.15152/",
-        "summary": "During the training, we will exchange best practices and explore how to become effective environmental leaders in Youth Exchanges. Participants enrolling in this TC should be ready to take on a leadership role in a future YE.",
+        "title": "SUSTAINABLE LEADERSHIP",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sustainable-leadership.15152/",
+        "summary": "During the training, we will exchange best practices and explore how to become effective environmental leaders in  l Youth Exchanges. Participants enrolling in this TC should be ready to take on a leadership role in a future YE.",
         "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "18-24 March 2027",
+        "date": "16-23 April 2027",
         "location": "Jesús -Tortosa (Catalonia), Spain",
         "deadline": "4 February 2027",
         "infopack": null,
