@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15452",
-        "category": "Partnership-building Activity",
-        "title": "Online Challenge - Develop your quality KA2 small-scale partnership project focused on youth participation",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/online-challenge-develop-your-quality-ka2-small-scale-partnership-project-focused-on-youth-participation.15452/",
-        "summary": "Join the best opportunity to submit quality Erasmus+ KA2 small-scale partnership project focused on youth participation, by the March 2027 deadline!",
-        "participants_from": "United Kingdom, Erasmus+ Youth Programme countries",
-        "date": "14 December 2026 - 15 March 2027",
-        "location": "online, Estonia",
-        "deadline": "26 November 2026",
-        "infopack": null,
-        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeMhNBXSPwO9cueEqLROvPznV6obdC2NI9v_ZCqGFqPht80vw/viewform?usp=header"
-    },
-    {
         "event_id": "15414",
         "category": "Training Course",
         "title": "The Playbook for Inclusion: Socio-Sports Leadership",
@@ -37,6 +24,19 @@
         "deadline": "30 November 2026",
         "infopack": null,
         "application_form": "https://horspistes.typeform.com/to/xuiD0jRU"
+    },
+    {
+        "event_id": "15497",
+        "category": "Study Visit",
+        "title": "Sharing Paths, Strenghthening Families",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sharing-paths-strenghthening-families.15497/",
+        "summary": "Connecting professionals, sharing experiences and learning from one another",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "6 February 2027",
+        "location": "Metsäkartano Youth Centre, Finland",
+        "deadline": "1 December 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/HCLwaPHLRVnY6fKk9"
     },
     {
         "event_id": "15439",
@@ -89,6 +89,19 @@
         "deadline": "29 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11087/Infopack-Brezn%20ICT%26SM%204.0_compressed.pdf",
         "application_form": "https://forms.gle/yAHZfRBHRngF6E5e9"
+    },
+    {
+        "event_id": "15490",
+        "category": "Study Visit",
+        "title": "BEYOND THE DİSTANCE:EMPOWERİNG RURAL YOUTH THROUGH INCLUSİVE AND PARTİCİPATORY YOUTH WORK",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/beyond-the-distance-empowering-rural-youth-through-inclusive-and-participatory-youth-work.15490/",
+        "summary": "Tunceli Yunus Emre Youth Center is seeking a Finnish partner for a KA153-YOU project on rural youth work, inclusion and participation, aiming to exchange good practices and empower youth workers.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "1 March 2027 -  1 March 2028",
+        "location": "Finland",
+        "deadline": "18 January 2027",
+        "infopack": null,
+        "application_form": null
     },
     {
         "event_id": "15152",
