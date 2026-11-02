@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15497",
-        "category": "Study Visit",
-        "title": "Sharing Paths, Strenghthening Families",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/sharing-paths-strenghthening-families.15497/",
-        "summary": "Connecting professionals, sharing experiences and learning from one another",
-        "participants_from": "Erasmus+ Youth Programme countries",
-        "date": "6 February 2027",
-        "location": "Metsäkartano Youth Centre, Finland",
-        "deadline": "1 December 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/HCLwaPHLRVnY6fKk9"
-    },
-    {
         "event_id": "15439",
         "category": "Training Course",
         "title": "TC WINTER 27 - Adventure and Experiential Learning for Personal Growth & Wellbeing",
@@ -26,6 +13,19 @@
         "application_form": "https://forms.gle/GiPpBR1nuAXAqLn48"
     },
     {
+        "event_id": "15501",
+        "category": "Training Course",
+        "title": "Participatory Learning through Arts for Youth | IMMERSION LAB",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/participatory-learning-through-arts-for-youth-immersion-lab.15501/",
+        "summary": "IMMERSION LAB is a practical and creative\r\ntraining for trainers, youth workers, educators,\r\nartists and theatre-makers who want to explore\r\nnew ways of using performing arts in their work.",
+        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland",
+        "date": "23 February -  3 March 2027",
+        "location": "Ribes de Freser, Girona, Spain",
+        "deadline": "7 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11187/IMMERSION%20LAB%20Creative%20Methods%20in%20Interactive%20Performance-2.pdf",
+        "application_form": "https://forms.gle/uPwN5HDkg25hhjbg8"
+    },
+    {
         "event_id": "15385",
         "category": "Training Course",
         "title": "Life in It Training Course",
@@ -37,6 +37,19 @@
         "deadline": "10 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11122/Life%20in%20it%20%20Infopack.pdf",
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSfOuiHhBvHxVzfixENWR4ca0aw5Vyd_r7Yl0KoB6TbsB0Yu6g/viewform?usp=send_form"
+    },
+    {
+        "event_id": "15479",
+        "category": "Training Course",
+        "title": "Pedagogy of the Pitch: Football as a tool",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/pedagogy-of-the-pitch-football-as-a-tool.15479/",
+        "summary": "This training is on social sport with a focus community building and competence development through sport.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "11-15 April 2027",
+        "location": "Antwerp - Pulcinella Youth Hostel, Belgium - FL",
+        "deadline": "11 December 2026",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSdlbeauHf6zhs41BFLOrFSKsEkplT1th5zr5CUv9xE_oPxAHQ/viewform?usp=dialog"
     },
     {
         "event_id": "15409",
