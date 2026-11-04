@@ -52,6 +52,19 @@
         "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSdlbeauHf6zhs41BFLOrFSKsEkplT1th5zr5CUv9xE_oPxAHQ/viewform?usp=dialog"
     },
     {
+        "event_id": "15517",
+        "category": "Training Course",
+        "title": "AI and IT tools for youth workers",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ai-and-it-tools-for-youth-workers.15517/",
+        "summary": "We aim to equip youth workers with practical AI and digital skills to make their work more effective and creative, combining expert input, hands-on workshops and experience sharing with colleagues across Europe.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "2-6 March 2027",
+        "location": "Čadca, Slovak Republic",
+        "deadline": "17 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11198/AI%26IT%20TOOLS%202026%20InfoPack.pdf%20%20%283%29.pdf",
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLScLsWBsheYY1Wl2uT6h3DQPdSpxFsQxhT-DasoaYHSuB809pA/viewform"
+    },
+    {
         "event_id": "15409",
         "category": "Training Course",
         "title": "Move, Play, Create : Circus and Physical Theatre as Tools for Youth Work",
@@ -65,6 +78,19 @@
         "application_form": "https://forms.gle/iCZrs2un7smPhRH58"
     },
     {
+        "event_id": "15489",
+        "category": "Study Visit",
+        "title": "Soulo - Moving Through Culture",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/soulo-moving-through-culture.15489/",
+        "summary": "Soulo - Moving Through Culture explores movement, music and cultural heritage as tools for intercultural dialogue, challenging stereotypes and equipping young people to create inclusive, arts-based learning activities in their communities.",
+        "participants_from": "Russian Federation, Eastern Partnership countries, Erasmus+ Youth Programme countries, Western Balkan countries",
+        "date": "1-7 February 2027",
+        "location": "Egypt",
+        "deadline": "18 December 2026",
+        "infopack": null,
+        "application_form": "https://forms.gle/WLGfNXBjiJdo3hXi9"
+    },
+    {
         "event_id": "15309",
         "category": "Training Course",
         "title": "ICT&SM 4.0: Advancing Digital Youth Work for Civic Engagement",
@@ -76,6 +102,19 @@
         "deadline": "29 December 2026",
         "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11087/Infopack-Brezn%20ICT%26SM%204.0_compressed.pdf",
         "application_form": "https://forms.gle/yAHZfRBHRngF6E5e9"
+    },
+    {
+        "event_id": "14943",
+        "category": "Training Course",
+        "title": "\"LET’S DARE THE INNER JOURNEY: FROM SELF TO US\" Training course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/let-s-dare-the-inner-journey-from-self-to-us-training-course.14943/",
+        "summary": "This training is a collective journey where Theatre of the Oppressed meets introspective practices. Through play, movement, and voice, we will explore our stories, emotions, and relationships with the world.",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "15-26 February 2027",
+        "location": "Piegros-la-Clastre, France",
+        "deadline": "10 January 2027",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-10912/Lets%20Dare%20the%20inner%20journey%202027%20Infopack%281%29.pdf",
+        "application_form": "https://framaforms.org/sy-application-form-lets-dare-the-inner-journey-from-self-to-us-training-course-1780407694"
     },
     {
         "event_id": "15490",
