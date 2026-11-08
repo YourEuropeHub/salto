@@ -1,18 +1,5 @@
 [
     {
-        "event_id": "15501",
-        "category": "Training Course",
-        "title": "Participatory Learning through Arts for Youth | IMMERSION LAB",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/participatory-learning-through-arts-for-youth-immersion-lab.15501/",
-        "summary": "IMMERSION LAB is a practical and creative\r\ntraining for trainers, youth workers, educators,\r\nartists and theatre-makers who want to explore\r\nnew ways of using performing arts in their work.",
-        "participants_from": "Austria, Belgium - DE, Belgium - FL, Belgium - FR, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North Macedonia, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland",
-        "date": "23 February -  3 March 2027",
-        "location": "Ribes de Freser, Girona, Spain",
-        "deadline": "7 December 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11187/IMMERSION%20LAB%20Creative%20Methods%20in%20Interactive%20Performance-2.pdf",
-        "application_form": "https://forms.gle/uPwN5HDkg25hhjbg8"
-    },
-    {
         "event_id": "15385",
         "category": "Training Course",
         "title": "Life in It Training Course",
@@ -128,5 +115,70 @@
         "deadline": "4 February 2027",
         "infopack": null,
         "application_form": "https://forms.gle/SNEEphPWFxQ5XJrb9"
+    },
+    {
+        "event_id": "15346",
+        "category": "Conference – Symposium - Forum",
+        "title": "From Lived Experience to Opportunity, Knowledge and Action: European Dialogue & Capacity-Building Forum 2027",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-lived-experience-to-opportunity-knowledge-and-action-european-dialogue-capacity-building-forum-2027.15346/",
+        "summary": "A European dialogue bringing together young refugees, migrants and stateless changemakers, youth workers, researchers and institutions to explore participation, access to opportunities, community knowledge and youth-led action.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "23-24 April 2027",
+        "location": "Warsaw, Poland",
+        "deadline": "9 March 2027",
+        "infopack": null,
+        "application_form": "https://hub.enrmsc.org/events/european-dialogue-capacity-building-forum-2027"
+    },
+    {
+        "event_id": "15241",
+        "category": "Training Course",
+        "title": "Heritage Revised — New Media Approaches to Heritage Awareness in Youth Work",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/heritage-revised-new-media-approaches-to-heritage-awareness-in-youth-work.15241/",
+        "summary": "In Heritage Revised, youth trainers will experiment with VR, AR, 360° storytelling, interactive projection, digital storytelling, gamification and AI-supported creative tools.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "23-29 August 2027",
+        "location": "Romania",
+        "deadline": "31 May 2027",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11055/Beige%20and%20Colorful%20Creative%20Importance%20of%20Education%20Trifold%20Brochure.png",
+        "application_form": "https://form.jotform.com/262311148588056"
+    },
+    {
+        "event_id": "11591",
+        "category": "E-learning",
+        "title": "Youth+: How to help youth with fewer/less opportunities grow in volunteering projects",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/youth-how-to-help-youth-with-fewer-less-opportunities-grow-in-volunteering-projects.11591/",
+        "summary": "An online course for youth workers to learn: \r\n- how to approach a group of youth with fewer opportunities,\r\n- how to involve them, to create their own volunteering project to help a community in need,\r\n- how to train, coach, mentor and support them.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "14 October 2032 -  1 October 2033",
+        "location": "Hungary",
+        "deadline": "30 September 2032",
+        "infopack": null,
+        "application_form": "https://forms.gle/eP5iVaq5cGhBLmEKA"
+    },
+    {
+        "event_id": "15005",
+        "category": "E-learning",
+        "title": "Ladder to Inclusion - Create Safer International Mobilities for Highly Vulnerable Young People Online Course",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/ladder-to-inclusion-create-safer-international-mobilities-for-highly-vulnerable-young-people-online-course.15005/",
+        "summary": "How can international youth mobility become truly safe, inclusive, and empowering for Highly Vulnerable Young People? This self-paced course equips youth workers with practical tools, trauma-informed approaches, and safeguarding competencies for mobility.",
+        "participants_from": "Erasmus+ Youth Programme countries, Other countries in the world, Partner Countries Neighbouring the EU",
+        "date": "1 January 2033 -  2 January 2034",
+        "location": "Online, Hungary",
+        "deadline": "27 December 2032",
+        "infopack": null,
+        "application_form": "https://forms.gle/xDfjX1BDerz3k2E47"
+    },
+    {
+        "event_id": "14690",
+        "category": "Training Course",
+        "title": "Connecting garden",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/connecting-garden.14690/",
+        "summary": "This is a training course to get to learn how to accompany young people to create a natural space for nature reconnection, self and other reconnection.",
+        "participants_from": "Armenia, France, Georgia, Greece, Italy, Lithuania, Romania, Spain, Türkiye",
+        "date": "15-23 July 2926",
+        "location": "France",
+        "deadline": "1 June 2926",
+        "infopack": null,
+        "application_form": "https://docs.google.com/forms/d/e/1FAIpQLSeMYE3jgrcq1XXx6ERsxJk4PZaUbvdEp4K4SakoroNgBB9fZQ/viewform?usp=header"
     }
 ]
