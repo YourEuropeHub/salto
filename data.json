@@ -1,29 +1,16 @@
 [
     {
-        "event_id": "15409",
-        "category": "Training Course",
-        "title": "Move, Play, Create : Circus and Physical Theatre as Tools for Youth Work",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/move-play-create-circus-and-physical-theatre-as-tools-for-youth-work.15409/",
-        "summary": "A practical training for youth workers to discover circus and theatre as tools for non-formal education, exploring accessible activities that foster creativity, confidence, cooperation and social connection.",
-        "participants_from": "Bulgaria, Czech Republic, Denmark, France, Germany, Greece, Italy, Poland, Portugal, Serbia, Slovenia, Spain, Türkiye",
-        "date": "1-7 February 2027",
-        "location": "Brežice, Slovenia",
-        "deadline": "18 December 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/iCZrs2un7smPhRH58"
-    },
-    {
-        "event_id": "15489",
-        "category": "Study Visit",
-        "title": "Soulo - Moving Through Culture",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/soulo-moving-through-culture.15489/",
-        "summary": "Soulo - Moving Through Culture explores movement, music and cultural heritage as tools for intercultural dialogue, challenging stereotypes and equipping young people to create inclusive, arts-based learning activities in their communities.",
-        "participants_from": "Russian Federation, Eastern Partnership countries, Erasmus+ Youth Programme countries, Western Balkan countries",
-        "date": "1-7 February 2027",
-        "location": "Egypt",
-        "deadline": "18 December 2026",
-        "infopack": null,
-        "application_form": "https://forms.gle/WLGfNXBjiJdo3hXi9"
+        "event_id": "15564",
+        "category": "Conference – Symposium - Forum",
+        "title": "Europe Talks Solidarity: Exploring the role of solidarity in Education, Training, Youth, Volunteering and Sport",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/europe-talks-solidarity-exploring-the-role-of-solidarity-in-education-training-youth-volunteering-and-sport.15564/",
+        "summary": "An international conference exploring solidarity as a European value across education, training, youth, volunteering and sport. Exchange practices, connect with European colleagues and contribute to discussions on the future of Erasmus+.",
+        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+        "date": "16-19 March 2027",
+        "location": "Vienna, Austria",
+        "deadline": "20 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11212/Draft%20Agenda%20Europe%20Talks%20Solidarity%2016th%20to%2019th%20of%20March%202027.pdf",
+        "application_form": "https://tcanetplatform.com/form/europe-talks-solidarity-vienna?source_entity_type=group&source_entity_id=1200#no-back"
     },
     {
         "event_id": "15556",
@@ -39,17 +26,17 @@
         "application_form": "https://forms.gle/4bzzbiqW2ARHKfa48"
     },
     {
-        "event_id": "15564",
-        "category": "Conference – Symposium - Forum",
-        "title": "Europe Talks Solidarity: Exploring the role of solidarity in Education, Training, Youth, Volunteering and Sport",
-        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/europe-talks-solidarity-exploring-the-role-of-solidarity-in-education-training-youth-volunteering-and-sport.15564/",
-        "summary": "An international conference exploring solidarity as a European value across education, training, youth, volunteering and sport. Exchange practices, connect with European colleagues and contribute to discussions on the future of Erasmus+.",
-        "participants_from": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-        "date": "16-19 March 2027",
-        "location": "Vienna, Austria",
-        "deadline": "20 December 2026",
-        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11212/Draft%20Agenda%20Europe%20Talks%20Solidarity%2016th%20to%2019th%20of%20March%202027.pdf",
-        "application_form": "https://tcanetplatform.com/form/europe-talks-solidarity-vienna?source_entity_type=group&source_entity_id=1200#no-back"
+        "event_id": "15563",
+        "category": "Training Course",
+        "title": "Erasmus+ Vote in action",
+        "url": "https://www.salto-youth.net/tools/european-training-calendar/training/erasmus-vote-in-action.15563/",
+        "summary": "This training aims to deepen understanding of how gender is used in political discourse (links between masculinist movements and the far right, political instrumentalisation of essentialist views of feminism)",
+        "participants_from": "Erasmus+ Youth Programme countries",
+        "date": "28 January -  5 February 2027",
+        "location": "Cornus , France",
+        "deadline": "21 December 2026",
+        "infopack": "https://www.salto-youth.net/tools/european-training-calendar/download/salto%5Ctrainingcalendar%5Cmodel%5CDownload-11211/%28Salto%29E+%20TC%20-%20Vote%20in%20Motion%20-%20Call%20for%20participants.pdf",
+        "application_form": "https://forms.gle/8yLuETuryd2tFjM3A"
     },
     {
         "event_id": "15309",
